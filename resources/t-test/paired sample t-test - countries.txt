@@ -1,0 +1,892 @@
+Afghanistan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.08378000644017537 T-Statistic:1.7320859982204904
+Afghanistan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0585690129593653e-29 T-Statistic:11.966420458756954
+Afghanistan: pair (people_fully_vaccinated, total_cases): P-Value:0.08319066341778271 T-Statistic:1.7354032253605758
+Afghanistan: pair (people_fully_vaccinated, total_deaths): P-Value:1.0669109901726453e-29 T-Statistic:11.965611100505843
+Albania: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:8.307612420876078e-14 T-Statistic:7.648536341717601
+Albania: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.615663152303445e-34 T-Statistic:13.034503977621878
+Albania: pair (people_fully_vaccinated, total_cases): P-Value:8.312913450741631e-14 T-Statistic:7.6484461599201605
+Albania: pair (people_fully_vaccinated, total_deaths): P-Value:2.618957426627087e-34 T-Statistic:13.034380325012403
+Algeria: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.696597513801538e-05 T-Statistic:4.054565777418129
+Algeria: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.245266978690541e-10 T-Statistic:6.396130860693731
+Algeria: pair (people_fully_vaccinated, total_cases): P-Value:5.704080791689891e-05 T-Statistic:4.0542502790803105
+Algeria: pair (people_fully_vaccinated, total_deaths): P-Value:3.247927042046475e-10 T-Statistic:6.39599699725648
+Andorra: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.3171162996623681 T-Statistic:1.0012589718740392
+Andorra: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.3500152597705915e-33 T-Statistic:12.881310131966027
+Andorra: pair (people_fully_vaccinated, total_cases): P-Value:0.3171077237543212 T-Statistic:1.0012767305255632
+Andorra: pair (people_fully_vaccinated, total_deaths): P-Value:1.3497530731083155e-33 T-Statistic:12.881329380167806
+Angola: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.531708508813079e-28 T-Statistic:11.664054575582513
+Angola: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.015696032438398e-32 T-Statistic:12.545081470538982
+Angola: pair (people_fully_vaccinated, total_cases): P-Value:2.5353391500102866e-28 T-Statistic:11.663903276125625
+Angola: pair (people_fully_vaccinated, total_deaths): P-Value:5.026371230896207e-32 T-Statistic:12.544866215512583
+Anguilla: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.0433141637972284e-45 T-Statistic:17.803486900155647
+Anguilla: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0433141637972284e-45 T-Statistic:17.803486900155647
+Anguilla: pair (people_fully_vaccinated, total_cases): P-Value:1.0434874124653691e-45 T-Statistic:17.803465272268745
+Anguilla: pair (people_fully_vaccinated, total_deaths): P-Value:1.0434874124653691e-45 T-Statistic:17.803465272268745
+Antigua and Barbuda: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.965473223639754e-32 T-Statistic:12.48845625910005
+Antigua and Barbuda: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.3191988404485913e-34 T-Statistic:13.036675405048888
+Antigua and Barbuda: pair (people_fully_vaccinated, total_cases): P-Value:7.976498444784053e-32 T-Statistic:12.488316240471113
+Antigua and Barbuda: pair (people_fully_vaccinated, total_deaths): P-Value:3.3240595357412207e-34 T-Statistic:13.036530701470507
+Argentina: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.0036161225936852154 T-Statistic:2.920555166867016
+Argentina: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:6.971442222949795e-26 T-Statistic:10.992628411421132
+Argentina: pair (people_fully_vaccinated, total_cases): P-Value:0.003616213955990173 T-Statistic:2.9205471889145533
+Argentina: pair (people_fully_vaccinated, total_deaths): P-Value:6.971999432945429e-26 T-Statistic:10.99261984809472
+Armenia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.58580727280603e-143 T-Statistic:-34.46807560527651
+Armenia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.032672098456399e-15 T-Statistic:8.1617236399638
+Armenia: pair (people_fully_vaccinated, total_cases): P-Value:5.611458266846304e-143 T-Statistic:-34.46767306790254
+Armenia: pair (people_fully_vaccinated, total_deaths): P-Value:2.0379983188105925e-15 T-Statistic:8.161371616452522
+Aruba: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.1841363913277207e-82 T-Statistic:33.44493527219755
+Aruba: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.1841363913277207e-82 T-Statistic:33.44493527219755
+Aruba: pair (people_fully_vaccinated, total_cases): P-Value:5.18589778351678e-82 T-Statistic:33.444866001640186
+Aruba: pair (people_fully_vaccinated, total_deaths): P-Value:5.18589778351678e-82 T-Statistic:33.444866001640186
+Australia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.7240150269872324e-21 T-Statistic:9.830339859743043
+Australia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.976252756141384e-22 T-Statistic:10.005805991421234
+Australia: pair (people_fully_vaccinated, total_cases): P-Value:2.7246616346039397e-21 T-Statistic:9.830312231815451
+Australia: pair (people_fully_vaccinated, total_deaths): P-Value:5.955179464074485e-22 T-Statistic:10.006212061706178
+Austria: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.560809417700032e-26 T-Statistic:11.062951201449048
+Austria: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.992052715946002e-39 T-Statistic:14.063120380295674
+Austria: pair (people_fully_vaccinated, total_cases): P-Value:5.562016681065061e-26 T-Statistic:11.062927697339452
+Austria: pair (people_fully_vaccinated, total_deaths): P-Value:5.99219678174768e-39 T-Statistic:14.06311810894164
+Azerbaijan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.731247199741934e-22 T-Statistic:10.17175334527311
+Azerbaijan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.342397088228628e-35 T-Statistic:13.21796328978417
+Azerbaijan: pair (people_fully_vaccinated, total_cases): P-Value:1.731080346212841e-22 T-Statistic:10.171764392153692
+Azerbaijan: pair (people_fully_vaccinated, total_deaths): P-Value:4.3435724449688086e-35 T-Statistic:13.217936849346676
+Bahamas: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:9.199541827054582e-06 T-Statistic:4.475712138828666
+Bahamas: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.0074391299359133e-28 T-Statistic:11.683906227223067
+Bahamas: pair (people_fully_vaccinated, total_cases): P-Value:9.20328762188529e-06 T-Statistic:4.475622103629734
+Bahamas: pair (people_fully_vaccinated, total_deaths): P-Value:2.0045333703183777e-28 T-Statistic:11.684058798649227
+Bahrain: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.444609182620382e-31 T-Statistic:12.404486844442557
+Bahrain: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.9473743700605976e-50 T-Statistic:16.469781408068627
+Bahrain: pair (people_fully_vaccinated, total_cases): P-Value:1.444639307174996e-31 T-Statistic:12.404484739153345
+Bahrain: pair (people_fully_vaccinated, total_deaths): P-Value:1.9479980572025335e-50 T-Statistic:16.46975314454089
+Bangladesh: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.1240166667227567e-20 T-Statistic:9.53160378839407
+Bangladesh: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.0786447365834207e-30 T-Statistic:12.143248344826882
+Bangladesh: pair (people_fully_vaccinated, total_cases): P-Value:4.1282590135128624e-20 T-Statistic:9.531480434234126
+Bangladesh: pair (people_fully_vaccinated, total_deaths): P-Value:2.079143661032143e-30 T-Statistic:12.143223746392852
+Barbados: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.2255392526751924e-36 T-Statistic:13.497661522964686
+Barbados: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.3121707760393843e-39 T-Statistic:14.134077417516192
+Barbados: pair (people_fully_vaccinated, total_cases): P-Value:3.224926519973847e-36 T-Statistic:13.49768000471476
+Barbados: pair (people_fully_vaccinated, total_deaths): P-Value:4.338070032897646e-39 T-Statistic:14.133507814401254
+Belarus: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.9944961963043474 T-Statistic:0.0069009882902701485
+Belarus: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0512130586876448e-28 T-Statistic:11.732664481978615
+Belarus: pair (people_fully_vaccinated, total_cases): P-Value:0.9944759108075131 T-Statistic:0.00692642382944708
+Belarus: pair (people_fully_vaccinated, total_deaths): P-Value:1.053537349993056e-28 T-Statistic:11.732433738176443
+Belgium: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:9.615725751993444e-21 T-Statistic:9.687930641037518
+Belgium: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.224883656819874e-36 T-Statistic:13.383774906665892
+Belgium: pair (people_fully_vaccinated, total_cases): P-Value:9.617011736954907e-21 T-Statistic:9.68791488100451
+Belgium: pair (people_fully_vaccinated, total_deaths): P-Value:5.225708796284726e-36 T-Statistic:13.383759732362138
+Belize: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.4659816915503978e-07 T-Statistic:5.324363206212127
+Belize: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.405203568775685e-25 T-Statistic:10.861958467570584
+Belize: pair (people_fully_vaccinated, total_cases): P-Value:1.4677232496658429e-07 T-Statistic:5.324136474957777
+Belize: pair (people_fully_vaccinated, total_deaths): P-Value:4.418853756279676e-25 T-Statistic:10.861616779117742
+Benin: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.006207892288134e-22 T-Statistic:-10.060486127863511
+Benin: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.3716797036671157e-26 T-Statistic:11.233671371510104
+Benin: pair (people_fully_vaccinated, total_cases): P-Value:3.585728748049163e-22 T-Statistic:-10.099123149297963
+Benin: pair (people_fully_vaccinated, total_deaths): P-Value:1.815986003591327e-26 T-Statistic:11.20337356414177
+Bermuda: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.763127288996471e-78 T-Statistic:26.974900394944598
+Bermuda: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:7.763127288996471e-78 T-Statistic:26.974900394944598
+Bermuda: pair (people_fully_vaccinated, total_cases): P-Value:7.766702312733856e-78 T-Statistic:26.974836370740668
+Bermuda: pair (people_fully_vaccinated, total_deaths): P-Value:7.766702312733856e-78 T-Statistic:26.974836370740668
+Bhutan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:8.166680502198053e-20 T-Statistic:9.451185513445624
+Bhutan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.8818137729704897e-20 T-Statistic:9.540717885279081
+Bhutan: pair (people_fully_vaccinated, total_cases): P-Value:8.164432710277654e-20 T-Statistic:9.451218762169592
+Bhutan: pair (people_fully_vaccinated, total_deaths): P-Value:3.8832641155868893e-20 T-Statistic:9.540673067145807
+Bolivia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.9822366932795044e-10 T-Statistic:6.479265751530708
+Bolivia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0503406254738034e-26 T-Statistic:11.257318038059342
+Bolivia: pair (people_fully_vaccinated, total_cases): P-Value:1.981226974482425e-10 T-Statistic:6.479348254668216
+Bolivia: pair (people_fully_vaccinated, total_deaths): P-Value:1.050523472097271e-26 T-Statistic:11.257299312532766
+Bonaire Sint Eustatius and Saba: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.1710823682330775e-36 T-Statistic:17.12942621512546
+Bonaire Sint Eustatius and Saba: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.1710823682330775e-36 T-Statistic:17.12942621512546
+Bonaire Sint Eustatius and Saba: pair (people_fully_vaccinated, total_cases): P-Value:1.1695738663983158e-36 T-Statistic:17.129652975914006
+Bonaire Sint Eustatius and Saba: pair (people_fully_vaccinated, total_deaths): P-Value:1.1695738663983158e-36 T-Statistic:17.129652975914006
+Bosnia and Herzegovina: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.283220717811477e-21 T-Statistic:-9.777256607984476
+Bosnia and Herzegovina: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.965195639710943e-25 T-Statistic:10.85687410791598
+Bosnia and Herzegovina: pair (people_fully_vaccinated, total_cases): P-Value:5.275576393386233e-21 T-Statistic:-9.777427323106735
+Bosnia and Herzegovina: pair (people_fully_vaccinated, total_deaths): P-Value:3.9652934550373417e-25 T-Statistic:10.856871397375238
+Botswana: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.522584947194532e-09 T-Statistic:-6.059254877844508
+Botswana: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0708285442926856e-25 T-Statistic:11.024513976307187
+Botswana: pair (people_fully_vaccinated, total_cases): P-Value:2.525837668402078e-09 T-Statistic:-6.059033874059314
+Botswana: pair (people_fully_vaccinated, total_deaths): P-Value:1.0697880425689418e-25 T-Statistic:11.024620572750774
+Brazil: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.890714161649723e-06 T-Statistic:4.661238714175147
+Brazil: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.626294950815992e-34 T-Statistic:12.960584174428465
+Brazil: pair (people_fully_vaccinated, total_cases): P-Value:3.89043526834852e-06 T-Statistic:4.661254011538212
+Brazil: pair (people_fully_vaccinated, total_deaths): P-Value:5.626827711321083e-34 T-Statistic:12.960574839907771
+British Virgin Islands: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.49413085080803e-71 T-Statistic:36.283724968097964
+British Virgin Islands: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:7.49413085080803e-71 T-Statistic:36.283724968097964
+British Virgin Islands: pair (people_fully_vaccinated, total_cases): P-Value:7.50180205984846e-71 T-Statistic:36.283417887925275
+British Virgin Islands: pair (people_fully_vaccinated, total_deaths): P-Value:7.50180205984846e-71 T-Statistic:36.283417887925275
+Brunei: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.472549457946873e-18 T-Statistic:8.934587494018484
+Brunei: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.068353154320291e-18 T-Statistic:8.971853158570816
+Brunei: pair (people_fully_vaccinated, total_cases): P-Value:5.467448386275167e-18 T-Statistic:8.934704878333468
+Brunei: pair (people_fully_vaccinated, total_deaths): P-Value:4.049539744596303e-18 T-Statistic:8.972434804036249
+Bulgaria: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.0780381979456017e-06 T-Statistic:4.711884470884195
+Bulgaria: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.639305719592559e-40 T-Statistic:14.308816869493223
+Bulgaria: pair (people_fully_vaccinated, total_cases): P-Value:3.0775600938418275e-06 T-Statistic:4.711917338751718
+Bulgaria: pair (people_fully_vaccinated, total_deaths): P-Value:5.641553166946552e-40 T-Statistic:14.308779339714931
+Burkina Faso: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.8095616403279096 T-Statistic:-0.24110228423444163
+Burkina Faso: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.390324573203273e-07 T-Statistic:5.228833789520847
+Burkina Faso: pair (people_fully_vaccinated, total_cases): P-Value:0.8082845833843513 T-Statistic:-0.24275116583724368
+Burkina Faso: pair (people_fully_vaccinated, total_deaths): P-Value:2.478128954451398e-07 T-Statistic:5.221842063584954
+Burundi: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.1339185350768372e-53 T-Statistic:-17.243239613671925
+Burundi: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:nan T-Statistic:nan
+Burundi: pair (people_fully_vaccinated, total_cases): P-Value:1.1156265886429903e-53 T-Statistic:-17.244683229123737
+Burundi: pair (people_fully_vaccinated, total_deaths): P-Value:1.0459689826474452e-39 T-Statistic:-14.297663210539351
+Cambodia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.5244510176584754e-30 T-Statistic:12.00227069033515
+Cambodia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.61460699156399e-30 T-Statistic:12.020619744497951
+Cambodia: pair (people_fully_vaccinated, total_cases): P-Value:5.515380525509309e-30 T-Statistic:12.00243831702543
+Cambodia: pair (people_fully_vaccinated, total_deaths): P-Value:4.6148203373139804e-30 T-Statistic:12.020615032750106
+Cameroon: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.9697657176219086e-119 T-Statistic:-29.838316905996788
+Cameroon: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0625617884066818e-24 T-Statistic:10.749085085079383
+Cameroon: pair (people_fully_vaccinated, total_cases): P-Value:2.3348118638090624e-119 T-Statistic:-29.858732712392406
+Cameroon: pair (people_fully_vaccinated, total_deaths): P-Value:8.246294767052843e-25 T-Statistic:10.77710535610858
+Canada: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:8.614497816586781e-25 T-Statistic:10.739394582072224
+Canada: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.847777161944173e-30 T-Statistic:12.014535814355032
+Canada: pair (people_fully_vaccinated, total_cases): P-Value:8.613794392374195e-25 T-Statistic:10.739403524235977
+Canada: pair (people_fully_vaccinated, total_deaths): P-Value:4.847669482012717e-30 T-Statistic:12.014538078169956
+Cape Verde: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.695244135302053e-06 T-Statistic:-4.740921463984422
+Cape Verde: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.7383835354895557e-16 T-Statistic:8.395401144672283
+Cape Verde: pair (people_fully_vaccinated, total_cases): P-Value:2.6945172074311157e-06 T-Statistic:-4.740978285625991
+Cape Verde: pair (people_fully_vaccinated, total_deaths): P-Value:3.739685485338063e-16 T-Statistic:8.395355137355727
+Cayman Islands: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.583465994072693e-78 T-Statistic:26.33335267707909
+Cayman Islands: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.583465994072693e-78 T-Statistic:26.33335267707909
+Cayman Islands: pair (people_fully_vaccinated, total_cases): P-Value:2.5846934596598104e-78 T-Statistic:26.33329083713466
+Cayman Islands: pair (people_fully_vaccinated, total_deaths): P-Value:2.5846934596598104e-78 T-Statistic:26.33329083713466
+Central African Republic: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.302187177378988e-177 T-Statistic:-42.02113898173155
+Central African Republic: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:0.0012638324683865061 T-Statistic:3.2402261638189684
+Central African Republic: pair (people_fully_vaccinated, total_cases): P-Value:5.987046796628902e-177 T-Statistic:-42.04046959387652
+Central African Republic: pair (people_fully_vaccinated, total_deaths): P-Value:0.0016671488161542744 T-Statistic:3.158942900356906
+Chad: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.1225332199600916 T-Statistic:-1.5465355433880101
+Chad: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:8.725455369786171e-17 T-Statistic:8.585546189934144
+Chad: pair (people_fully_vaccinated, total_cases): P-Value:0.11562654282826253 T-Statistic:-1.5758135193722729
+Chad: pair (people_fully_vaccinated, total_deaths): P-Value:9.064094366480781e-17 T-Statistic:8.580598826731372
+Chile: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.9862733094840172e-39 T-Statistic:14.163551227855475
+Chile: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.9438029886878517e-49 T-Statistic:16.263537093831573
+Chile: pair (people_fully_vaccinated, total_cases): P-Value:1.9866964808110242e-39 T-Statistic:14.163531189450488
+Chile: pair (people_fully_vaccinated, total_deaths): P-Value:1.944264555156406e-49 T-Statistic:16.263516051143206
+China: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.779185803288811e-14 T-Statistic:7.852987302984532
+China: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.68196789319537e-14 T-Statistic:7.860725478492342
+China: pair (people_fully_vaccinated, total_cases): P-Value:1.77950275899274e-14 T-Statistic:7.852962762843386
+China: pair (people_fully_vaccinated, total_deaths): P-Value:1.6868328898270296e-14 T-Statistic:7.8603278786391995
+Colombia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.972631769312587e-07 T-Statistic:5.048422136245683
+Colombia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.1662473557687274e-32 T-Statistic:12.610099374479244
+Colombia: pair (people_fully_vaccinated, total_cases): P-Value:5.973831312603346e-07 T-Statistic:5.04838207269001
+Colombia: pair (people_fully_vaccinated, total_deaths): P-Value:2.1673880121551802e-32 T-Statistic:12.610046510610006
+Comoros: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.155334274072504e-19 T-Statistic:9.261118891854915
+Comoros: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0633183737860135e-22 T-Statistic:10.277634348817793
+Comoros: pair (people_fully_vaccinated, total_cases): P-Value:5.165306802183764e-19 T-Statistic:9.26087885375881
+Comoros: pair (people_fully_vaccinated, total_deaths): P-Value:1.0657817527663953e-22 T-Statistic:10.277366378251036
+Congo: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.626426494802155e-05 T-Statistic:4.10533763027346
+Congo: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.039584953704635e-17 T-Statistic:8.770825133821122
+Congo: pair (people_fully_vaccinated, total_cases): P-Value:4.600712784289738e-05 T-Statistic:4.106664003481901
+Congo: pair (people_fully_vaccinated, total_deaths): P-Value:2.021053594843438e-17 T-Statistic:8.771991189972823
+Cook Islands: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.284164920096002e-50 T-Statistic:24.018029885838395
+Cook Islands: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.284164920096002e-50 T-Statistic:24.018029885838395
+Cook Islands: pair (people_fully_vaccinated, total_cases): P-Value:3.284256269044058e-50 T-Statistic:24.018023715327665
+Cook Islands: pair (people_fully_vaccinated, total_deaths): P-Value:3.284256269044058e-50 T-Statistic:24.018023715327665
+Costa Rica: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.1517419111586216e-12 T-Statistic:7.1225459625514755
+Costa Rica: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:8.810846702302336e-37 T-Statistic:13.604415238418063
+Costa Rica: pair (people_fully_vaccinated, total_cases): P-Value:3.153423415508782e-12 T-Statistic:7.122466040857719
+Costa Rica: pair (people_fully_vaccinated, total_deaths): P-Value:8.818202955900867e-37 T-Statistic:13.604334746996402
+Cote d'Ivoire: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.1634392124098721e-10 T-Statistic:-6.465088784409445
+Cote d'Ivoire: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.1723085119410802e-07 T-Statistic:5.365450995520147
+Cote d'Ivoire: pair (people_fully_vaccinated, total_cases): P-Value:2.0974930261119654e-10 T-Statistic:-6.470108855155697
+Cote d'Ivoire: pair (people_fully_vaccinated, total_deaths): P-Value:1.2602975925176556e-07 T-Statistic:5.351718776895833
+Croatia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.8257544373369884e-15 T-Statistic:8.115419026455234
+Croatia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.786062104949017e-37 T-Statistic:13.698053355593833
+Croatia: pair (people_fully_vaccinated, total_cases): P-Value:2.8264610251700646e-15 T-Statistic:8.115385275550652
+Croatia: pair (people_fully_vaccinated, total_deaths): P-Value:2.7856397562792816e-37 T-Statistic:13.69806786675
+Cuba: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.135436325563923e-23 T-Statistic:10.343607356637827
+Cuba: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.8442583589945556e-25 T-Statistic:10.866648778114381
+Cuba: pair (people_fully_vaccinated, total_cases): P-Value:4.134660983319222e-23 T-Statistic:10.34362866814466
+Cuba: pair (people_fully_vaccinated, total_deaths): P-Value:3.8429206840354886e-25 T-Statistic:10.866687075873035
+Curacao: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.4419091072964895e-77 T-Statistic:31.499815527053993
+Curacao: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.4419091072964895e-77 T-Statistic:31.499815527053993
+Curacao: pair (people_fully_vaccinated, total_cases): P-Value:1.4415078862211115e-77 T-Statistic:31.499870204134076
+Curacao: pair (people_fully_vaccinated, total_deaths): P-Value:1.4415078862211115e-77 T-Statistic:31.499870204134076
+Cyprus: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.0854154543155882e-29 T-Statistic:11.91139662172399
+Cyprus: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.7568463768992468e-39 T-Statistic:14.201597416032866
+Cyprus: pair (people_fully_vaccinated, total_cases): P-Value:2.0867267050825523e-29 T-Statistic:11.91133134941705
+Cyprus: pair (people_fully_vaccinated, total_deaths): P-Value:1.758485349180779e-39 T-Statistic:14.201509276612784
+Czechia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:6.107728234679116e-08 T-Statistic:5.485755191950436
+Czechia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.781818370498527e-38 T-Statistic:13.862745237776643
+Czechia: pair (people_fully_vaccinated, total_cases): P-Value:6.108989900883953e-08 T-Statistic:5.485716824359385
+Czechia: pair (people_fully_vaccinated, total_deaths): P-Value:4.782960826731753e-38 T-Statistic:13.86272252797556
+Democratic Republic of Congo: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.567666575664888e-134 T-Statistic:-32.904614019191065
+Democratic Republic of Congo: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.1550330353693066e-08 T-Statistic:5.79055497574223
+Democratic Republic of Congo: pair (people_fully_vaccinated, total_cases): P-Value:2.8249656087134177e-134 T-Statistic:-32.89625478887422
+Democratic Republic of Congo: pair (people_fully_vaccinated, total_deaths): P-Value:3.40236884663382e-08 T-Statistic:5.595763048115932
+Denmark: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.141150155712995e-31 T-Statistic:12.216622837180756
+Denmark: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.733454769897622e-38 T-Statistic:13.828618435866403
+Denmark: pair (people_fully_vaccinated, total_cases): P-Value:7.1434416900692345e-31 T-Statistic:12.216590394361319
+Denmark: pair (people_fully_vaccinated, total_deaths): P-Value:4.733231466755475e-38 T-Statistic:13.828622888666288
+Djibouti: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.902184767572505e-34 T-Statistic:-12.987427287892869
+Djibouti: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.492523558330933e-27 T-Statistic:11.382806012146299
+Djibouti: pair (people_fully_vaccinated, total_cases): P-Value:5.9708307020478715e-34 T-Statistic:-12.98627920509933
+Djibouti: pair (people_fully_vaccinated, total_deaths): P-Value:3.58238610634729e-27 T-Statistic:11.380085481302043
+Dominica: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.666929402338853e-43 T-Statistic:14.984666224517563
+Dominica: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.4476455703407107e-43 T-Statistic:15.111216687049243
+Dominica: pair (people_fully_vaccinated, total_cases): P-Value:5.662233132896011e-43 T-Statistic:14.98474323962924
+Dominica: pair (people_fully_vaccinated, total_deaths): P-Value:1.4476814529422121e-43 T-Statistic:15.111214392596041
+Dominican Republic: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.7547933606279835e-27 T-Statistic:11.438326645623368
+Dominican Republic: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.4235908548080503e-35 T-Statistic:13.32668537030526
+Dominican Republic: pair (people_fully_vaccinated, total_cases): P-Value:1.7555174098095942e-27 T-Statistic:11.438282842991415
+Dominican Republic: pair (people_fully_vaccinated, total_deaths): P-Value:1.4238763063640626e-35 T-Statistic:13.326665866511808
+Ecuador: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.361586332403705e-16 T-Statistic:8.339513360642398
+Ecuador: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.841629226560975e-22 T-Statistic:10.080116739025268
+Ecuador: pair (people_fully_vaccinated, total_cases): P-Value:5.362489606319407e-16 T-Statistic:8.339491070175331
+Ecuador: pair (people_fully_vaccinated, total_deaths): P-Value:3.841107082025496e-22 T-Statistic:10.08013241491525
+Egypt: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.6087177707254557e-13 T-Statistic:7.551353627106819
+Egypt: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:7.611688743073474e-22 T-Statistic:9.990152685512403
+Egypt: pair (people_fully_vaccinated, total_cases): P-Value:1.6088471965064042e-13 T-Statistic:7.551342156675837
+Egypt: pair (people_fully_vaccinated, total_deaths): P-Value:7.615701473807604e-22 T-Statistic:9.990091765391426
+El Salvador: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.954214205131553e-26 T-Statistic:11.122090745378014
+El Salvador: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:9.219042052554303e-30 T-Statistic:12.009517656488253
+El Salvador: pair (people_fully_vaccinated, total_cases): P-Value:3.9555712592334164e-26 T-Statistic:11.12205345880395
+El Salvador: pair (people_fully_vaccinated, total_deaths): P-Value:9.221985074889926e-30 T-Statistic:12.009484544237056
+Equatorial Guinea: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.7003476994970545e-28 T-Statistic:11.700233637517195
+Equatorial Guinea: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.5300307853567555e-36 T-Statistic:13.566608738019466
+Equatorial Guinea: pair (people_fully_vaccinated, total_cases): P-Value:1.6936055555602415e-28 T-Statistic:11.700651612742245
+Equatorial Guinea: pair (people_fully_vaccinated, total_deaths): P-Value:1.5210819010043315e-36 T-Statistic:13.567177442669466
+Eritrea: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.855449530897392e-83 T-Statistic:-23.005399747819055
+Eritrea: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.545476431930222e-29 T-Statistic:-11.871739124722822
+Eritrea: pair (people_fully_vaccinated, total_cases): P-Value:3.393126967012311e-83 T-Statistic:-23.016133045948372
+Eritrea: pair (people_fully_vaccinated, total_deaths): P-Value:1.1359244399713096e-52 T-Statistic:-17.004285958106937
+Estonia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.521126783130917e-25 T-Statistic:10.843453714673736
+Estonia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.8395020900232027e-42 T-Statistic:14.773259174238596
+Estonia: pair (people_fully_vaccinated, total_cases): P-Value:3.5228219683504256e-25 T-Statistic:10.843401236472927
+Estonia: pair (people_fully_vaccinated, total_deaths): P-Value:1.8387175821655612e-42 T-Statistic:14.773298169221892
+Eswatini: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.004502528718782622 T-Statistic:2.851925689188675
+Eswatini: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.2146548300944268e-16 T-Statistic:8.540153648872302
+Eswatini: pair (people_fully_vaccinated, total_cases): P-Value:0.004501139990861905 T-Statistic:2.852025164980301
+Eswatini: pair (people_fully_vaccinated, total_deaths): P-Value:1.2159384614765734e-16 T-Statistic:8.540016032518809
+Ethiopia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:9.434365680435328e-54 T-Statistic:-17.19706552811462
+Ethiopia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.4871269090857834e-06 T-Statistic:4.685819341969726
+Ethiopia: pair (people_fully_vaccinated, total_cases): P-Value:8.7394251845607e-54 T-Statistic:-17.203788270098308
+Ethiopia: pair (people_fully_vaccinated, total_deaths): P-Value:3.40024070567001e-06 T-Statistic:4.691182499172885
+Faeroe Islands: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.9181519176454775e-52 T-Statistic:19.565465322693154
+Faeroe Islands: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.9181519176454775e-52 T-Statistic:19.565465322693154
+Faeroe Islands: pair (people_fully_vaccinated, total_cases): P-Value:2.91661990774359e-52 T-Statistic:19.565533250054024
+Faeroe Islands: pair (people_fully_vaccinated, total_deaths): P-Value:2.91661990774359e-52 T-Statistic:19.565533250054024
+Falkland Islands: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.0039028281378648798 T-Statistic:2.991303229699151
+Falkland Islands: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:0.0039028281378648798 T-Statistic:2.991303229699151
+Falkland Islands: pair (people_fully_vaccinated, total_cases): P-Value:0.003902828131200964 T-Statistic:2.991303230292287
+Falkland Islands: pair (people_fully_vaccinated, total_deaths): P-Value:0.003902828131200964 T-Statistic:2.991303230292287
+Fiji: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.2936120116308425e-18 T-Statistic:9.023947353002086
+Fiji: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.7694399623893657e-19 T-Statistic:9.245818775859721
+Fiji: pair (people_fully_vaccinated, total_cases): P-Value:2.292110207454042e-18 T-Statistic:9.02402856040146
+Fiji: pair (people_fully_vaccinated, total_deaths): P-Value:3.7788276907750993e-19 T-Statistic:9.245515863890958
+Finland: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.445001854777006e-27 T-Statistic:11.335972081897399
+Finland: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.2395357496974538e-30 T-Statistic:12.096334039043173
+Finland: pair (people_fully_vaccinated, total_cases): P-Value:3.445848991104933e-27 T-Statistic:11.335946073654778
+Finland: pair (people_fully_vaccinated, total_deaths): P-Value:2.2396974365524376e-30 T-Statistic:12.096326704726554
+France: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.739476295746524e-22 T-Statistic:9.974816862005913
+France: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0116606511182013e-36 T-Statistic:13.524564163050712
+France: pair (people_fully_vaccinated, total_cases): P-Value:7.74042086500833e-22 T-Statistic:9.974802808398776
+France: pair (people_fully_vaccinated, total_deaths): P-Value:1.0118536756135742e-36 T-Statistic:13.524546006363309
+French Polynesia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.8477603200237316e-49 T-Statistic:18.717296350036587
+French Polynesia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.8477603200237316e-49 T-Statistic:18.717296350036587
+French Polynesia: pair (people_fully_vaccinated, total_cases): P-Value:3.8446181925224306e-49 T-Statistic:18.717402111171506
+French Polynesia: pair (people_fully_vaccinated, total_deaths): P-Value:3.8446181925224306e-49 T-Statistic:18.717402111171506
+Gabon: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.8637583422933833e-09 T-Statistic:-6.108098895703606
+Gabon: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.052744890343479e-26 T-Statistic:11.145150378186132
+Gabon: pair (people_fully_vaccinated, total_cases): P-Value:1.851169398462238e-09 T-Statistic:-6.109251440925905
+Gabon: pair (people_fully_vaccinated, total_deaths): P-Value:3.1023673705161834e-26 T-Statistic:11.143403159995385
+Gambia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.9748490516100355e-09 T-Statistic:6.028649166940568
+Gambia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.684271138852944e-14 T-Statistic:7.879104847957938
+Gambia: pair (people_fully_vaccinated, total_cases): P-Value:2.9820768736470724e-09 T-Statistic:6.028231806171118
+Gambia: pair (people_fully_vaccinated, total_deaths): P-Value:1.6903346504732963e-14 T-Statistic:7.878606737801139
+Georgia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.232013287377843e-76 T-Statistic:-21.450679427258518
+Georgia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.6895256066554735e-18 T-Statistic:9.075246179311485
+Georgia: pair (people_fully_vaccinated, total_cases): P-Value:7.220939826736124e-76 T-Statistic:-21.450806395383815
+Georgia: pair (people_fully_vaccinated, total_deaths): P-Value:1.6980020329592951e-18 T-Statistic:9.074624955714535
+Germany: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.279125478811245e-31 T-Statistic:12.258171864771324
+Germany: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:6.609913912344854e-38 T-Statistic:13.782901261465083
+Germany: pair (people_fully_vaccinated, total_cases): P-Value:4.278940118327251e-31 T-Statistic:12.258176223759115
+Germany: pair (people_fully_vaccinated, total_deaths): P-Value:6.61160195554147e-38 T-Statistic:13.782877201731807
+Ghana: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.882185105416501e-08 T-Statistic:5.571985280044527
+Ghana: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.550119716729547e-31 T-Statistic:12.292375406619643
+Ghana: pair (people_fully_vaccinated, total_cases): P-Value:3.824645265977641e-08 T-Statistic:5.574726959113748
+Ghana: pair (people_fully_vaccinated, total_deaths): P-Value:5.7333714956548865e-31 T-Statistic:12.289056036289105
+Gibraltar: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.9262641569870997e-105 T-Statistic:36.21685936387562
+Gibraltar: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.9262641569870997e-105 T-Statistic:36.21685936387562
+Gibraltar: pair (people_fully_vaccinated, total_cases): P-Value:1.9265054667172307e-105 T-Statistic:36.216839055307325
+Gibraltar: pair (people_fully_vaccinated, total_deaths): P-Value:1.9265054667172307e-105 T-Statistic:36.216839055307325
+Greece: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:9.798941124533197e-36 T-Statistic:13.345741950747247
+Greece: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.7512569386208424e-40 T-Statistic:14.341333368739146
+Greece: pair (people_fully_vaccinated, total_cases): P-Value:9.80251935289782e-36 T-Statistic:13.345706614068982
+Greece: pair (people_fully_vaccinated, total_deaths): P-Value:2.751526348181968e-40 T-Statistic:14.341324228808862
+Greenland: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.3314918029191515e-42 T-Statistic:16.696786424078088
+Greenland: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.3314918029191515e-42 T-Statistic:16.696786424078088
+Greenland: pair (people_fully_vaccinated, total_cases): P-Value:1.330459087969478e-42 T-Statistic:16.696884163448964
+Greenland: pair (people_fully_vaccinated, total_deaths): P-Value:1.330459087969478e-42 T-Statistic:16.696884163448964
+Grenada: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.0292468881952397e-36 T-Statistic:13.617515417112593
+Grenada: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.4323536053262618e-36 T-Statistic:13.585418096972269
+Grenada: pair (people_fully_vaccinated, total_cases): P-Value:1.0353748532572792e-36 T-Statistic:13.616939226356218
+Grenada: pair (people_fully_vaccinated, total_deaths): P-Value:1.430330459912743e-36 T-Statistic:13.585555452195445
+Guatemala: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.24653018315572894 T-Statistic:1.1599546239499001
+Guatemala: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.901671569670584e-16 T-Statistic:8.376150671989716
+Guatemala: pair (people_fully_vaccinated, total_cases): P-Value:0.24661558947286166 T-Statistic:1.1597447256320426
+Guatemala: pair (people_fully_vaccinated, total_deaths): P-Value:3.910839484850242e-16 T-Statistic:8.375841865826297
+Guernsey: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.2184620272970507e-117 T-Statistic:42.58248664658293
+Guernsey: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.2184620272970507e-117 T-Statistic:42.58248664658293
+Guernsey: pair (people_fully_vaccinated, total_cases): P-Value:1.2203114333641908e-117 T-Statistic:42.58219692253401
+Guernsey: pair (people_fully_vaccinated, total_deaths): P-Value:1.2203114333641908e-117 T-Statistic:42.58219692253401
+Guinea: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.5735970905526342e-23 T-Statistic:10.453868412827786
+Guinea: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.975148015165266e-31 T-Statistic:12.354655721271937
+Guinea: pair (people_fully_vaccinated, total_cases): P-Value:1.5820688394227794e-23 T-Statistic:10.453262262294546
+Guinea: pair (people_fully_vaccinated, total_deaths): P-Value:2.96678272868725e-31 T-Statistic:12.354942485137107
+Guinea-Bissau: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.1382036578376784e-188 T-Statistic:-45.08626515750814
+Guinea-Bissau: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.2663158307351874e-14 T-Statistic:7.921616891097422
+Guinea-Bissau: pair (people_fully_vaccinated, total_cases): P-Value:1.0118974594445224e-188 T-Statistic:-45.09832220660739
+Guinea-Bissau: pair (people_fully_vaccinated, total_deaths): P-Value:1.74189066606088e-14 T-Statistic:7.8774471114674585
+Guyana: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.772308251194818e-24 T-Statistic:10.565830579018574
+Guyana: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0953295473341343e-32 T-Statistic:12.68697921884695
+Guyana: pair (people_fully_vaccinated, total_cases): P-Value:5.773559727052077e-24 T-Statistic:10.565806284368083
+Guyana: pair (people_fully_vaccinated, total_deaths): P-Value:1.0935615865638878e-32 T-Statistic:12.687141258657615
+Haiti: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.088652999066288e-168 T-Statistic:-40.35512825600033
+Haiti: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.549135584855235e-07 T-Statistic:5.313458444954498
+Haiti: pair (people_fully_vaccinated, total_cases): P-Value:8.433146421521905e-169 T-Statistic:-40.37965121775356
+Haiti: pair (people_fully_vaccinated, total_deaths): P-Value:1.799743452465504e-07 T-Statistic:5.284715953566465
+Honduras: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.39905929359299497 T-Statistic:0.8439303359701897
+Honduras: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.5626549168443917e-14 T-Statistic:7.737929616612115
+Honduras: pair (people_fully_vaccinated, total_cases): P-Value:0.3989501197335861 T-Statistic:0.8441258746329456
+Honduras: pair (people_fully_vaccinated, total_deaths): P-Value:4.5626976244851885e-14 T-Statistic:7.7379283022004595
+Hong Kong: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.2896145338759754e-33 T-Statistic:12.715066401175585
+Hong Kong: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.3180646619565174e-33 T-Statistic:12.83094550040709
+Hong Kong: pair (people_fully_vaccinated, total_cases): P-Value:4.2883496811988604e-33 T-Statistic:12.715095436700128
+Hong Kong: pair (people_fully_vaccinated, total_deaths): P-Value:1.3190453314142376e-33 T-Statistic:12.830872653449138
+Hungary: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.6409997700211517e-36 T-Statistic:13.53932780437045
+Hungary: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.3868739228185618e-46 T-Statistic:15.650460197823545
+Hungary: pair (people_fully_vaccinated, total_cases): P-Value:1.641294628820658e-36 T-Statistic:13.539310455245994
+Hungary: pair (people_fully_vaccinated, total_deaths): P-Value:2.3875662912739733e-46 T-Statistic:15.650433986010583
+Iceland: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.196610818478677e-35 T-Statistic:13.278210617557603
+Iceland: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.735366168614001e-39 T-Statistic:14.181819051430747
+Iceland: pair (people_fully_vaccinated, total_cases): P-Value:2.196344794918171e-35 T-Statistic:13.278222403246
+Iceland: pair (people_fully_vaccinated, total_deaths): P-Value:1.737322091337213e-39 T-Statistic:14.181713019021355
+India: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.3150111373990757e-16 T-Statistic:8.510962069951994
+India: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:9.151383003828598e-32 T-Statistic:12.419793247220667
+India: pair (people_fully_vaccinated, total_cases): P-Value:1.3141211906775888e-16 T-Statistic:8.511049790318276
+India: pair (people_fully_vaccinated, total_deaths): P-Value:9.166468809814512e-32 T-Statistic:12.419628468734704
+Indonesia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.521862601567499e-29 T-Statistic:11.823985327633054
+Indonesia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:7.300666250528337e-34 T-Statistic:12.942152550860486
+Indonesia: pair (people_fully_vaccinated, total_cases): P-Value:4.5259670416488375e-29 T-Statistic:11.823890890297902
+Indonesia: pair (people_fully_vaccinated, total_deaths): P-Value:7.3124782514483515e-34 T-Statistic:12.941992751952236
+Iran: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.810545631105789e-05 T-Statistic:-4.32215789321793
+Iran: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:7.324689191350034e-17 T-Statistic:8.594956100783397
+Iran: pair (people_fully_vaccinated, total_cases): P-Value:1.8108684222502624e-05 T-Statistic:-4.322117333906183
+Iran: pair (people_fully_vaccinated, total_deaths): P-Value:7.320061428340281e-17 T-Statistic:8.595037673701597
+Iraq: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.9775397816520055e-86 T-Statistic:-23.352415644779864
+Iraq: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.3277161633149214e-14 T-Statistic:7.77669799864149
+Iraq: pair (people_fully_vaccinated, total_cases): P-Value:5.931965691658805e-86 T-Statistic:-23.35304464858925
+Iraq: pair (people_fully_vaccinated, total_deaths): P-Value:3.341208934470143e-14 T-Statistic:7.776133425639676
+Ireland: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.394214156368557e-25 T-Statistic:10.841144928465791
+Ireland: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.607520012356813e-34 T-Statistic:12.965281555466138
+Ireland: pair (people_fully_vaccinated, total_cases): P-Value:4.394466322062966e-25 T-Statistic:10.841138626230338
+Ireland: pair (people_fully_vaccinated, total_deaths): P-Value:5.6072430720774934e-34 T-Statistic:12.96528642891779
+Isle of Man: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.5453504324692934e-62 T-Statistic:22.398828174738192
+Isle of Man: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.5453504324692934e-62 T-Statistic:22.398828174738192
+Isle of Man: pair (people_fully_vaccinated, total_cases): P-Value:1.5447118870884645e-62 T-Statistic:22.398882261690165
+Isle of Man: pair (people_fully_vaccinated, total_deaths): P-Value:1.5447118870884645e-62 T-Statistic:22.398882261690165
+Israel: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.859181898913013e-61 T-Statistic:18.565896079183744
+Israel: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.946478313534418e-71 T-Statistic:20.513790370903536
+Israel: pair (people_fully_vaccinated, total_cases): P-Value:4.859897850974763e-61 T-Statistic:18.56588358249653
+Israel: pair (people_fully_vaccinated, total_deaths): P-Value:3.948002330077213e-71 T-Statistic:20.5137583137029
+Italy: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.285672718515202e-26 T-Statistic:11.097478819011581
+Italy: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:9.126078655377769e-38 T-Statistic:13.763414638243876
+Italy: pair (people_fully_vaccinated, total_cases): P-Value:3.285375667647087e-26 T-Statistic:11.097488520241049
+Italy: pair (people_fully_vaccinated, total_deaths): P-Value:9.126591999752996e-38 T-Statistic:13.763409320293931
+Jamaica: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.007122632394884232 T-Statistic:2.7007310710732817
+Jamaica: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:8.505259991800078e-26 T-Statistic:11.030883090353743
+Jamaica: pair (people_fully_vaccinated, total_cases): P-Value:0.0071246794605641945 T-Statistic:2.700634252036514
+Jamaica: pair (people_fully_vaccinated, total_deaths): P-Value:8.571126382786362e-26 T-Statistic:11.030042510443497
+Japan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.684268670186837e-24 T-Statistic:10.662816184402155
+Japan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.5649925054989511e-25 T-Statistic:10.921893463866828
+Japan: pair (people_fully_vaccinated, total_cases): P-Value:1.6842376629357037e-24 T-Statistic:10.662818208114373
+Japan: pair (people_fully_vaccinated, total_deaths): P-Value:1.564822675612387e-25 T-Statistic:10.921905203194562
+Jersey: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:9.656588588394172e-86 T-Statistic:33.993960218997096
+Jersey: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:9.656588588394172e-86 T-Statistic:33.993960218997096
+Jersey: pair (people_fully_vaccinated, total_cases): P-Value:9.655814734534712e-86 T-Statistic:33.99397598318952
+Jersey: pair (people_fully_vaccinated, total_deaths): P-Value:9.655814734534712e-86 T-Statistic:33.99397598318952
+Jordan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:9.06439617319978e-08 T-Statistic:5.413051657066463
+Jordan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.8419088294648273e-31 T-Statistic:12.346215415834372
+Jordan: pair (people_fully_vaccinated, total_cases): P-Value:9.061386867819954e-08 T-Statistic:5.413114082541047
+Jordan: pair (people_fully_vaccinated, total_deaths): P-Value:2.842322766864408e-31 T-Statistic:12.346200630307573
+Kazakhstan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.9411659421622742e-20 T-Statistic:9.628125939247514
+Kazakhstan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.1700361627755186e-29 T-Statistic:11.977370037584514
+Kazakhstan: pair (people_fully_vaccinated, total_cases): P-Value:1.938405779314681e-20 T-Statistic:9.628295846227397
+Kazakhstan: pair (people_fully_vaccinated, total_deaths): P-Value:1.1690634087281664e-29 T-Statistic:11.977456274137698
+Kenya: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.00011119692942144334 T-Statistic:3.891474199876566
+Kenya: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.2664364419902373e-26 T-Statistic:11.232170123968261
+Kenya: pair (people_fully_vaccinated, total_cases): P-Value:0.0001113796967237573 T-Statistic:3.8910653219809386
+Kenya: pair (people_fully_vaccinated, total_deaths): P-Value:1.3000149942227024e-26 T-Statistic:11.22935521234556
+Kiribati: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.41984171099625e-09 T-Statistic:6.254106157889534
+Kiribati: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.20525147232556e-09 T-Statistic:6.264013189340193
+Kiribati: pair (people_fully_vaccinated, total_cases): P-Value:4.381341754697812e-09 T-Statistic:6.255848276613247
+Kiribati: pair (people_fully_vaccinated, total_deaths): P-Value:4.20531696100107e-09 T-Statistic:6.264010090714054
+Kosovo: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.0012958683397206632 T-Statistic:-3.232921218526662
+Kosovo: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.4089419492614527e-17 T-Statistic:8.817481480738461
+Kosovo: pair (people_fully_vaccinated, total_cases): P-Value:0.0012968188661505913 T-Statistic:-3.2327078709921784
+Kosovo: pair (people_fully_vaccinated, total_deaths): P-Value:1.4077906207151368e-17 T-Statistic:8.817585493604987
+Kuwait: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.1532088511147679 T-Statistic:-1.4301275768432502
+Kuwait: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.3733589551774066e-27 T-Statistic:11.45818583524641
+Kuwait: pair (people_fully_vaccinated, total_cases): P-Value:0.1530789235496994 T-Statistic:-1.4305806752218435
+Kuwait: pair (people_fully_vaccinated, total_deaths): P-Value:1.374696120125006e-27 T-Statistic:11.458082805546361
+Kyrgyzstan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.0017164641068290257 T-Statistic:-3.15036609286735
+Kyrgyzstan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.108763481240267e-18 T-Statistic:9.138988918929128
+Kyrgyzstan: pair (people_fully_vaccinated, total_cases): P-Value:0.001715077438352367 T-Statistic:-3.150606351614729
+Kyrgyzstan: pair (people_fully_vaccinated, total_deaths): P-Value:1.1105355281742922e-18 T-Statistic:9.138790794090989
+Laos: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.1041139810861782e-26 T-Statistic:11.195695416263097
+Laos: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.259777004380662e-26 T-Statistic:11.187957594711492
+Laos: pair (people_fully_vaccinated, total_cases): P-Value:2.1043184177589223e-26 T-Statistic:11.195684885294115
+Laos: pair (people_fully_vaccinated, total_deaths): P-Value:2.258860937019627e-26 T-Statistic:11.188001562570111
+Latvia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.4744958226002526e-22 T-Statistic:10.184313114932129
+Latvia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.9370479643321403e-36 T-Statistic:13.506954861077885
+Latvia: pair (people_fully_vaccinated, total_cases): P-Value:1.474041189217893e-22 T-Statistic:10.184348358393267
+Latvia: pair (people_fully_vaccinated, total_deaths): P-Value:1.935584689780166e-36 T-Statistic:13.507027629457358
+Lebanon: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:6.219650445580402e-07 T-Statistic:-5.0389978052548825
+Lebanon: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.2424755860594994e-33 T-Statistic:12.816912728131884
+Lebanon: pair (people_fully_vaccinated, total_cases): P-Value:6.219284363151911e-07 T-Statistic:-5.039009554922756
+Lebanon: pair (people_fully_vaccinated, total_deaths): P-Value:2.24667850560517e-33 T-Statistic:12.816727341633138
+Lesotho: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.002607403424596269 T-Statistic:3.0254511704971696
+Lesotho: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.3731183027870528e-08 T-Statistic:5.770103348917544
+Lesotho: pair (people_fully_vaccinated, total_cases): P-Value:0.0026127222077195014 T-Statistic:3.024823699135252
+Lesotho: pair (people_fully_vaccinated, total_deaths): P-Value:1.3774672800967073e-08 T-Statistic:5.769535747723435
+Liberia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.719470692939038e-172 T-Statistic:-41.06356109507563
+Liberia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0018296361997367e-18 T-Statistic:9.150991857258868
+Liberia: pair (people_fully_vaccinated, total_cases): P-Value:1.9011342410614433e-172 T-Statistic:-41.09810094632506
+Liberia: pair (people_fully_vaccinated, total_deaths): P-Value:8.997957733501578e-20 T-Statistic:9.446233681936214
+Libya: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.805022087882335e-107 T-Statistic:-27.493264540205498
+Libya: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.872405100741127e-08 T-Statistic:5.571129613739418
+Libya: pair (people_fully_vaccinated, total_cases): P-Value:2.786794687361136e-107 T-Statistic:-27.49380891865291
+Libya: pair (people_fully_vaccinated, total_deaths): P-Value:3.862553676064289e-08 T-Statistic:5.571597028786666
+Liechtenstein: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.047884370306602e-25 T-Statistic:10.792672977867193
+Liechtenstein: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:7.994782101677828e-41 T-Statistic:14.48411497404652
+Liechtenstein: pair (people_fully_vaccinated, total_cases): P-Value:7.050559506942589e-25 T-Statistic:10.79263113043839
+Liechtenstein: pair (people_fully_vaccinated, total_deaths): P-Value:7.979386912514658e-41 T-Statistic:14.484295172589244
+Lithuania: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:8.244588005320297e-25 T-Statistic:10.771891335654962
+Lithuania: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:9.911203898477431e-42 T-Statistic:14.670347399069627
+Lithuania: pair (people_fully_vaccinated, total_cases): P-Value:8.24429504547012e-25 T-Statistic:10.77189525453218
+Lithuania: pair (people_fully_vaccinated, total_deaths): P-Value:9.916498527116252e-42 T-Statistic:14.67029785195719
+Luxembourg: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.00022306837050879347 T-Statistic:-3.7142358871372108
+Luxembourg: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.638249283852795e-16 T-Statistic:8.49184788712258
+Luxembourg: pair (people_fully_vaccinated, total_cases): P-Value:0.00022326672307210055 T-Statistic:-3.7140058256700774
+Luxembourg: pair (people_fully_vaccinated, total_deaths): P-Value:1.6372682669004875e-16 T-Statistic:8.491925951719216
+Macao: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:6.421871724480389e-40 T-Statistic:16.10510787690153
+Macao: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:6.421871724480389e-40 T-Statistic:16.10510787690153
+Macao: pair (people_fully_vaccinated, total_cases): P-Value:6.42119946284443e-40 T-Statistic:16.105121439783126
+Macao: pair (people_fully_vaccinated, total_deaths): P-Value:6.42119946284443e-40 T-Statistic:16.105121439783126
+Madagascar: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.9621653043735655e-28 T-Statistic:-11.592875154410372
+Madagascar: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:6.21056057942882e-05 T-Statistic:4.035003000885782
+Madagascar: pair (people_fully_vaccinated, total_cases): P-Value:5.273841068578046e-28 T-Statistic:-11.586418877558314
+Madagascar: pair (people_fully_vaccinated, total_deaths): P-Value:6.309657165714958e-05 T-Statistic:4.031177087891694
+Malawi: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.672382931980024e-09 T-Statistic:5.918763808508445
+Malawi: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.1596315997059438e-18 T-Statistic:9.014549189876213
+Malawi: pair (people_fully_vaccinated, total_cases): P-Value:5.699329001105173e-09 T-Statistic:5.917935095513399
+Malawi: pair (people_fully_vaccinated, total_deaths): P-Value:3.1325080891954356e-18 T-Statistic:9.015632092841178
+Malaysia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:9.385699425929108e-20 T-Statistic:9.410853900813592
+Malaysia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0972784980560525e-22 T-Statistic:10.198028099951298
+Malaysia: pair (people_fully_vaccinated, total_cases): P-Value:9.383470547506326e-20 T-Statistic:9.410882417345912
+Malaysia: pair (people_fully_vaccinated, total_deaths): P-Value:1.0989405680586775e-22 T-Statistic:10.197856479664734
+Maldives: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.0678098523757415e-28 T-Statistic:11.741073541728866
+Maldives: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.114953197837969e-41 T-Statistic:14.580411166848677
+Maldives: pair (people_fully_vaccinated, total_cases): P-Value:1.0681917633195032e-28 T-Statistic:11.741036088085272
+Maldives: pair (people_fully_vaccinated, total_deaths): P-Value:3.116551804639446e-41 T-Statistic:14.580363257612477
+Mali: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.493700875007552e-11 T-Statistic:6.890992985139817
+Mali: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:9.938441775326783e-24 T-Statistic:10.515959925653569
+Mali: pair (people_fully_vaccinated, total_cases): P-Value:1.5547499997961153e-11 T-Statistic:6.884810385829942
+Mali: pair (people_fully_vaccinated, total_deaths): P-Value:8.859910414525436e-24 T-Statistic:10.528916966316956
+Malta: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.237767791283319e-38 T-Statistic:13.919388846847559
+Malta: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:8.938312171972666e-45 T-Statistic:15.326363799268304
+Malta: pair (people_fully_vaccinated, total_cases): P-Value:3.2387360916763574e-38 T-Statistic:13.919360345938665
+Malta: pair (people_fully_vaccinated, total_deaths): P-Value:8.933782548623987e-45 T-Statistic:15.326410049425228
+Marshall Islands: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.306195509590691e-277 T-Statistic:-115.48220121339858
+Marshall Islands: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:nan T-Statistic:nan
+Marshall Islands: pair (people_fully_vaccinated, total_cases): P-Value:4.868440804952561e-277 T-Statistic:-115.3490239037765
+Marshall Islands: pair (people_fully_vaccinated, total_deaths): P-Value:nan T-Statistic:nan
+Mauritania: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.8042605119650359 T-Statistic:0.24795202335556782
+Mauritania: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.3589819865864452e-05 T-Statistic:4.263018655853243
+Mauritania: pair (people_fully_vaccinated, total_cases): P-Value:0.8047142977603503 T-Statistic:0.24736528847203518
+Mauritania: pair (people_fully_vaccinated, total_deaths): P-Value:2.371284220337863e-05 T-Statistic:4.261819591065371
+Mauritius: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.722093861619936e-27 T-Statistic:11.409473816755126
+Mauritius: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.0143046543440518e-27 T-Statistic:11.441644738748778
+Mauritius: pair (people_fully_vaccinated, total_cases): P-Value:2.7238627251053722e-27 T-Statistic:11.409404356146588
+Mauritius: pair (people_fully_vaccinated, total_deaths): P-Value:2.012143647575276e-27 T-Statistic:11.441759317090476
+Mexico: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.1914126403942526e-27 T-Statistic:11.423066813809701
+Mexico: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.558192128207341e-35 T-Statistic:13.184716751281988
+Mexico: pair (people_fully_vaccinated, total_cases): P-Value:1.191171254667912e-27 T-Statistic:11.42308798122428
+Mexico: pair (people_fully_vaccinated, total_deaths): P-Value:2.557887698524831e-35 T-Statistic:13.18472814565494
+Micronesia (country): pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.0 T-Statistic:-7.421806258945792e+16
+Micronesia (country): pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:nan T-Statistic:nan
+Micronesia (country): pair (people_fully_vaccinated, total_cases): P-Value:0.0 T-Statistic:-inf
+Micronesia (country): pair (people_fully_vaccinated, total_deaths): P-Value:nan T-Statistic:nan
+Moldova: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.866787403877531e-07 T-Statistic:-5.276309745995112
+Moldova: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.241509688930988e-28 T-Statistic:11.596066648466786
+Moldova: pair (people_fully_vaccinated, total_cases): P-Value:1.8666311063069177e-07 T-Statistic:-5.276325838285782
+Moldova: pair (people_fully_vaccinated, total_deaths): P-Value:4.239862648635961e-28 T-Statistic:11.596107634292078
+Monaco: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.032991203508288e-45 T-Statistic:15.386968722662015
+Monaco: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.6470481491264789e-53 T-Statistic:17.10587073944148
+Monaco: pair (people_fully_vaccinated, total_cases): P-Value:4.030460230584238e-45 T-Statistic:15.387025766499518
+Monaco: pair (people_fully_vaccinated, total_deaths): P-Value:1.6457394823694591e-53 T-Statistic:17.105940175011206
+Mongolia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.5158757862039726e-39 T-Statistic:14.097072270391767
+Mongolia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.466129154613052e-39 T-Statistic:14.09793238227972
+Mongolia: pair (people_fully_vaccinated, total_cases): P-Value:5.5179762394740574e-39 T-Statistic:14.097036124212629
+Mongolia: pair (people_fully_vaccinated, total_deaths): P-Value:5.4669524751504743e-39 T-Statistic:14.097918083792955
+Montenegro: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.4769175281092096e-10 T-Statistic:-6.444335687138685
+Montenegro: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.04544261589538e-36 T-Statistic:13.503250179661817
+Montenegro: pair (people_fully_vaccinated, total_cases): P-Value:2.477829761416845e-10 T-Statistic:-6.444275753445467
+Montenegro: pair (people_fully_vaccinated, total_deaths): P-Value:3.050364527228666e-36 T-Statistic:13.503093115696222
+Montserrat: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.800481235969486e-64 T-Statistic:23.83389055492628
+Montserrat: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:7.800481235969486e-64 T-Statistic:23.83389055492628
+Montserrat: pair (people_fully_vaccinated, total_cases): P-Value:7.805271894548764e-64 T-Statistic:23.83380077103283
+Montserrat: pair (people_fully_vaccinated, total_deaths): P-Value:7.805271894548764e-64 T-Statistic:23.83380077103283
+Morocco: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:8.199319360171876e-38 T-Statistic:13.784750299226559
+Morocco: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.543531753713381e-42 T-Statistic:14.698203887628248
+Morocco: pair (people_fully_vaccinated, total_cases): P-Value:8.199141697762592e-38 T-Statistic:13.784752351732163
+Morocco: pair (people_fully_vaccinated, total_deaths): P-Value:4.5412798771035114e-42 T-Statistic:14.698249392317676
+Mozambique: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.484617276627392e-10 T-Statistic:6.38959725944245
+Mozambique: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:6.529323806790941e-17 T-Statistic:8.624613131851483
+Mozambique: pair (people_fully_vaccinated, total_cases): P-Value:3.512295628267901e-10 T-Statistic:6.38829960526983
+Mozambique: pair (people_fully_vaccinated, total_deaths): P-Value:6.600597514233501e-17 T-Statistic:8.623206580961668
+Myanmar: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.02172672582018e-28 T-Statistic:11.564058320272306
+Myanmar: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.7583966371380026e-35 T-Statistic:13.251251307741379
+Myanmar: pair (people_fully_vaccinated, total_cases): P-Value:7.050563865575479e-28 T-Statistic:11.56362232164259
+Myanmar: pair (people_fully_vaccinated, total_deaths): P-Value:4.7501051016859214e-35 T-Statistic:13.251423296726626
+Namibia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.993794372389641e-73 T-Statistic:-21.045989690027064
+Namibia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.8475471516358376e-21 T-Statistic:9.90689574234387
+Namibia: pair (people_fully_vaccinated, total_cases): P-Value:3.083987802002224e-73 T-Statistic:-21.0434928229127
+Namibia: pair (people_fully_vaccinated, total_deaths): P-Value:1.8487358987911016e-21 T-Statistic:9.906820426152665
+Nauru: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.5371081229478813e-16 T-Statistic:9.259216548037962
+Nauru: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.5371081229478813e-16 T-Statistic:9.259216548037962
+Nauru: pair (people_fully_vaccinated, total_cases): P-Value:2.537469106346599e-16 T-Statistic:9.259192369915489
+Nauru: pair (people_fully_vaccinated, total_deaths): P-Value:2.537469106346599e-16 T-Statistic:9.259192369915489
+Nepal: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.245412872852249e-11 T-Statistic:6.757127541620366
+Nepal: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.2802301313321616e-22 T-Statistic:10.18118747394146
+Nepal: pair (people_fully_vaccinated, total_cases): P-Value:3.24706279497683e-11 T-Statistic:6.757048451654124
+Nepal: pair (people_fully_vaccinated, total_deaths): P-Value:1.2823899435252287e-22 T-Statistic:10.18099608086961
+Netherlands: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.296693211209168e-20 T-Statistic:9.459993127778896
+Netherlands: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.6424649018107445e-35 T-Statistic:13.308047406364777
+Netherlands: pair (people_fully_vaccinated, total_cases): P-Value:7.293877861104327e-20 T-Statistic:9.460039623811246
+Netherlands: pair (people_fully_vaccinated, total_deaths): P-Value:1.6416031573332304e-35 T-Statistic:13.30809843503534
+New Caledonia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.881523318792055e-60 T-Statistic:22.06053573178334
+New Caledonia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.881523318792055e-60 T-Statistic:22.06053573178334
+New Caledonia: pair (people_fully_vaccinated, total_cases): P-Value:3.881757435427841e-60 T-Statistic:22.060527583470694
+New Caledonia: pair (people_fully_vaccinated, total_deaths): P-Value:3.881757435427841e-60 T-Statistic:22.060527583470694
+New Zealand: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.0628011550009738e-26 T-Statistic:11.244117545450385
+New Zealand: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.3140598673131194e-27 T-Statistic:11.340562931927243
+New Zealand: pair (people_fully_vaccinated, total_cases): P-Value:1.0632104216478769e-26 T-Statistic:11.244076250155478
+New Zealand: pair (people_fully_vaccinated, total_deaths): P-Value:4.29984144562553e-27 T-Statistic:11.340915122357826
+Nicaragua: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.2250676011430025e-15 T-Statistic:8.106519053940913
+Nicaragua: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.638757587291493e-20 T-Statistic:9.55676337839511
+Nicaragua: pair (people_fully_vaccinated, total_cases): P-Value:3.2506243086294894e-15 T-Statistic:8.105448248847772
+Nicaragua: pair (people_fully_vaccinated, total_deaths): P-Value:3.6249326536898676e-20 T-Statistic:9.557220954935206
+Niger: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.804033462977412e-15 T-Statistic:8.052720003333208
+Niger: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:6.494156799203309e-23 T-Statistic:10.298630117140451
+Niger: pair (people_fully_vaccinated, total_cases): P-Value:4.224980172657224e-15 T-Statistic:8.07022138625249
+Niger: pair (people_fully_vaccinated, total_deaths): P-Value:6.803707229674178e-23 T-Statistic:10.293309560473542
+Nigeria: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.6902140300503316e-16 T-Statistic:8.42953968328777
+Nigeria: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.6824106187241385e-29 T-Statistic:11.841946379584254
+Nigeria: pair (people_fully_vaccinated, total_cases): P-Value:2.709260058219075e-16 T-Statistic:8.428614063328473
+Nigeria: pair (people_fully_vaccinated, total_deaths): P-Value:3.483073740608998e-29 T-Statistic:11.847727319645069
+Niue: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.08292629134380396 T-Statistic:1.776310350840181
+Niue: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:0.08292629134380396 T-Statistic:1.776310350840181
+Niue: pair (people_fully_vaccinated, total_cases): P-Value:0.08294836246269008 T-Statistic:1.7761782838861804
+Niue: pair (people_fully_vaccinated, total_deaths): P-Value:0.08294836246269008 T-Statistic:1.7761782838861804
+North Macedonia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.022304866183992238 T-Statistic:2.291185827048393
+North Macedonia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.040122943875754e-27 T-Statistic:11.345569709609073
+North Macedonia: pair (people_fully_vaccinated, total_cases): P-Value:0.022305332034510787 T-Statistic:2.291177823449454
+North Macedonia: pair (people_fully_vaccinated, total_deaths): P-Value:4.0418346639607664e-27 T-Statistic:11.34552455923437
+Norway: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.76954778970659e-33 T-Statistic:12.80153841863629
+Norway: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.420020557955021e-37 T-Statistic:13.653842276450156
+Norway: pair (people_fully_vaccinated, total_cases): P-Value:2.769617422331146e-33 T-Statistic:12.801535924134186
+Norway: pair (people_fully_vaccinated, total_deaths): P-Value:4.419113780504791e-37 T-Statistic:13.65386194730393
+Oman: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.02081310157585248 T-Statistic:2.3175748769323268
+Oman: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.832880922016126e-20 T-Statistic:9.485166607217225
+Oman: pair (people_fully_vaccinated, total_cases): P-Value:0.020815428015330158 T-Statistic:2.3175324206622627
+Oman: pair (people_fully_vaccinated, total_deaths): P-Value:5.831547257415849e-20 T-Statistic:9.48519408757135
+Pakistan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.953701489387321e-14 T-Statistic:7.793652556962207
+Pakistan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:9.674578681431294e-20 T-Statistic:9.424798831551866
+Pakistan: pair (people_fully_vaccinated, total_cases): P-Value:2.954644469291112e-14 T-Statistic:7.793608091077842
+Pakistan: pair (people_fully_vaccinated, total_deaths): P-Value:9.654089356881744e-20 T-Statistic:9.42505483335331
+Palau: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.2371815174755433e-19 T-Statistic:-14.789207054153659
+Palau: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:nan T-Statistic:nan
+Palau: pair (people_fully_vaccinated, total_cases): P-Value:2.792945028481649e-19 T-Statistic:-14.951276949300958
+Palau: pair (people_fully_vaccinated, total_deaths): P-Value:nan T-Statistic:nan
+Palestine: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.4686333333319505e-62 T-Statistic:-18.919859027165423
+Palestine: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.7044197150730555e-30 T-Statistic:12.166059191084441
+Palestine: pair (people_fully_vaccinated, total_cases): P-Value:1.45973300810592e-62 T-Statistic:-18.92037682850028
+Palestine: pair (people_fully_vaccinated, total_deaths): P-Value:1.715754127193706e-30 T-Statistic:12.1653801093737
+Panama: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.02547017413192462 T-Statistic:2.24001064617871
+Panama: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.8091525039688696e-28 T-Statistic:11.60850875925978
+Panama: pair (people_fully_vaccinated, total_cases): P-Value:0.025470101415923166 T-Statistic:2.240011759490863
+Panama: pair (people_fully_vaccinated, total_deaths): P-Value:3.81069023324039e-28 T-Statistic:11.608466180834975
+Papua New Guinea: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.5728470724868835e-08 T-Statistic:-5.5426483419167925
+Papua New Guinea: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.2310021630946554e-15 T-Statistic:8.156805163689373
+Papua New Guinea: pair (people_fully_vaccinated, total_cases): P-Value:4.477942315993836e-08 T-Statistic:-5.5465178859964555
+Papua New Guinea: pair (people_fully_vaccinated, total_deaths): P-Value:2.412513356595704e-15 T-Statistic:8.146237203384878
+Paraguay: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.017986123495213984 T-Statistic:2.372661690347803
+Paraguay: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.037296853706012e-19 T-Statistic:9.422870465481413
+Paraguay: pair (people_fully_vaccinated, total_cases): P-Value:0.017985719564938798 T-Statistic:2.3726700693094207
+Paraguay: pair (people_fully_vaccinated, total_deaths): P-Value:1.0380888468279002e-19 T-Statistic:9.422778062189808
+Peru: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.0008838438560805637 T-Statistic:3.3407120076711485
+Peru: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0045213012088507e-26 T-Statistic:11.198912282837558
+Peru: pair (people_fully_vaccinated, total_cases): P-Value:0.0008837917748258793 T-Statistic:3.3407286555884235
+Peru: pair (people_fully_vaccinated, total_deaths): P-Value:1.0048712979996953e-26 T-Statistic:11.198875416248816
+Philippines: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.202288803528931e-15 T-Statistic:7.979403716578023
+Philippines: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0419470863714996e-22 T-Statistic:10.207881927132908
+Philippines: pair (people_fully_vaccinated, total_cases): P-Value:7.203618250336822e-15 T-Statistic:7.9793785770995775
+Philippines: pair (people_fully_vaccinated, total_deaths): P-Value:1.0421292296053048e-22 T-Statistic:10.207862093273
+Pitcairn: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.1598729941699007e-14 T-Statistic:9.218025951916088
+Pitcairn: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.1598729941699007e-14 T-Statistic:9.218025951916088
+Pitcairn: pair (people_fully_vaccinated, total_cases): P-Value:2.1598790862341248e-14 T-Statistic:9.218025343257764
+Pitcairn: pair (people_fully_vaccinated, total_deaths): P-Value:2.1598790862341248e-14 T-Statistic:9.218025343257764
+Poland: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.265819690669014e-27 T-Statistic:11.324285800413609
+Poland: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.1526659114219305e-40 T-Statistic:14.449891552504242
+Poland: pair (people_fully_vaccinated, total_cases): P-Value:5.2640617593234914e-27 T-Statistic:11.324321508529604
+Poland: pair (people_fully_vaccinated, total_deaths): P-Value:1.1524098010662114e-40 T-Statistic:14.449912349556117
+Portugal: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.526556566522535e-22 T-Statistic:10.120530708721239
+Portugal: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.6895651750144464e-35 T-Statistic:13.247826516525048
+Portugal: pair (people_fully_vaccinated, total_cases): P-Value:2.5266719350586777e-22 T-Statistic:10.120525471622985
+Portugal: pair (people_fully_vaccinated, total_deaths): P-Value:2.6897333944269296e-35 T-Statistic:13.247820439430605
+Qatar: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.975121159120595e-22 T-Statistic:10.075462831674049
+Qatar: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.0622659446746126e-38 T-Statistic:13.953267136865088
+Qatar: pair (people_fully_vaccinated, total_cases): P-Value:3.9751568249678303e-22 T-Statistic:10.075461796875734
+Qatar: pair (people_fully_vaccinated, total_deaths): P-Value:2.0636650981953128e-38 T-Statistic:13.953202707237953
+Romania: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.4271529507051986e-29 T-Statistic:11.9378776546394
+Romania: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:9.186307121473245e-50 T-Statistic:16.338168217496122
+Romania: pair (people_fully_vaccinated, total_cases): P-Value:1.4273256788845675e-29 T-Statistic:11.937865150316503
+Romania: pair (people_fully_vaccinated, total_deaths): P-Value:9.186776246976748e-50 T-Statistic:16.3381636921389
+Russia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.1106155062970055e-19 T-Statistic:9.316763422501035
+Russia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.302076953806911e-37 T-Statistic:13.675791964576161
+Russia: pair (people_fully_vaccinated, total_cases): P-Value:2.1120335529085724e-19 T-Statistic:9.316682072135123
+Russia: pair (people_fully_vaccinated, total_deaths): P-Value:2.302623007517884e-37 T-Statistic:13.675769466720096
+Rwanda: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:8.469826332894701e-16 T-Statistic:8.284235345613036
+Rwanda: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.8760158839913337e-19 T-Statistic:9.26635654491058
+Rwanda: pair (people_fully_vaccinated, total_cases): P-Value:8.461017442932635e-16 T-Statistic:8.2843740642428
+Rwanda: pair (people_fully_vaccinated, total_deaths): P-Value:3.887322747810565e-19 T-Statistic:9.26599905839505
+Saint Helena: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.079640103865294e-08 T-Statistic:5.867435121704979
+Saint Helena: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:7.079640103865294e-08 T-Statistic:5.867435121704979
+Saint Helena: pair (people_fully_vaccinated, total_cases): P-Value:7.081543563931559e-08 T-Statistic:5.867373633725125
+Saint Helena: pair (people_fully_vaccinated, total_deaths): P-Value:7.081543563931559e-08 T-Statistic:5.867373633725125
+Saint Kitts and Nevis: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.94332505428637e-34 T-Statistic:12.997811554141226
+Saint Kitts and Nevis: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.049098533647994e-34 T-Statistic:13.014034640455248
+Saint Kitts and Nevis: pair (people_fully_vaccinated, total_cases): P-Value:5.946930592692076e-34 T-Statistic:12.997751195364431
+Saint Kitts and Nevis: pair (people_fully_vaccinated, total_deaths): P-Value:5.049219089923538e-34 T-Statistic:13.014032265708778
+Saint Lucia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.107516631590165e-23 T-Statistic:10.377674191272721
+Saint Lucia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.5715779659065625e-36 T-Statistic:13.439317643086184
+Saint Lucia: pair (people_fully_vaccinated, total_cases): P-Value:3.103872209024336e-23 T-Statistic:10.377807346133093
+Saint Lucia: pair (people_fully_vaccinated, total_deaths): P-Value:5.5719513733194484e-36 T-Statistic:13.439311117404237
+Saint Vincent and the Grenadines: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:6.184458692752543e-06 T-Statistic:4.562668787915925
+Saint Vincent and the Grenadines: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.2838851869691614e-20 T-Statistic:9.533913675910426
+Saint Vincent and the Grenadines: pair (people_fully_vaccinated, total_cases): P-Value:6.188422497512308e-06 T-Statistic:4.562529398136629
+Saint Vincent and the Grenadines: pair (people_fully_vaccinated, total_deaths): P-Value:4.277117262000186e-20 T-Statistic:9.53410382661918
+Samoa: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.5734387269459817e-21 T-Statistic:10.249694347352138
+Samoa: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.548743663796936e-21 T-Statistic:10.25172082134474
+Samoa: pair (people_fully_vaccinated, total_cases): P-Value:1.5822610603866282e-21 T-Statistic:10.248978043054446
+Samoa: pair (people_fully_vaccinated, total_deaths): P-Value:1.5488711410876198e-21 T-Statistic:10.251710278336295
+San Marino: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.8577448346613845e-25 T-Statistic:10.888331298924959
+San Marino: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:9.60493897140723e-46 T-Statistic:15.51712055971492
+San Marino: pair (people_fully_vaccinated, total_cases): P-Value:2.8593235571200982e-25 T-Statistic:10.888270814674474
+San Marino: pair (people_fully_vaccinated, total_deaths): P-Value:9.621618016237227e-46 T-Statistic:15.516963450007903
+Sao Tome and Principe: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.7284591169534e-12 T-Statistic:7.105977066666557
+Sao Tome and Principe: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.5673717475633956e-30 T-Statistic:12.216930829304161
+Sao Tome and Principe: pair (people_fully_vaccinated, total_cases): P-Value:3.734079402988422e-12 T-Statistic:7.105749916878781
+Sao Tome and Principe: pair (people_fully_vaccinated, total_deaths): P-Value:1.5508688140788825e-30 T-Statistic:12.218025543498095
+Saudi Arabia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.147061761482749e-15 T-Statistic:8.103141203212495
+Saudi Arabia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.53562120662584e-20 T-Statistic:9.549443931224832
+Saudi Arabia: pair (people_fully_vaccinated, total_cases): P-Value:3.146796436068995e-15 T-Statistic:8.103152609723857
+Saudi Arabia: pair (people_fully_vaccinated, total_deaths): P-Value:3.535776269751721e-20 T-Statistic:9.5494386777556
+Senegal: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.6411336731195656e-15 T-Statistic:8.12567475661128
+Senegal: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.253289666949006e-26 T-Statistic:11.071888328861343
+Senegal: pair (people_fully_vaccinated, total_cases): P-Value:2.6353574330237977e-15 T-Statistic:8.125970171295053
+Senegal: pair (people_fully_vaccinated, total_deaths): P-Value:5.218523430849498e-26 T-Statistic:11.072607516313761
+Serbia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.667594935756965e-35 T-Statistic:13.305008751531076
+Serbia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.9293396016994633e-54 T-Statistic:17.246815858241515
+Serbia: pair (people_fully_vaccinated, total_cases): P-Value:1.6676320975383796e-35 T-Statistic:13.305006585318957
+Serbia: pair (people_fully_vaccinated, total_deaths): P-Value:2.929783898491744e-54 T-Statistic:17.246802667817995
+Seychelles: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.383770051194038e-62 T-Statistic:18.968135235747678
+Seychelles: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.1666702640766542e-61 T-Statistic:18.785224082539774
+Seychelles: pair (people_fully_vaccinated, total_cases): P-Value:1.3841883743556592e-62 T-Statistic:18.96810933103569
+Seychelles: pair (people_fully_vaccinated, total_deaths): P-Value:1.1668741919950678e-61 T-Statistic:18.785209070558746
+Sierra Leone: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.2632966060598147e-09 T-Statistic:6.078015854359461
+Sierra Leone: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.7160716161849814e-30 T-Statistic:12.119315962632374
+Sierra Leone: pair (people_fully_vaccinated, total_cases): P-Value:2.149838862139665e-09 T-Statistic:6.086809363162921
+Sierra Leone: pair (people_fully_vaccinated, total_deaths): P-Value:3.058437090873431e-30 T-Statistic:12.139494687239253
+Singapore: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.641770810494034e-36 T-Statistic:13.329972780845958
+Singapore: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.8346062481359114e-39 T-Statistic:14.076362584276797
+Singapore: pair (people_fully_vaccinated, total_cases): P-Value:7.641661548538703e-36 T-Statistic:13.32997415179395
+Singapore: pair (people_fully_vaccinated, total_deaths): P-Value:2.8426564817811215e-39 T-Statistic:14.07609835277463
+Sint Maarten (Dutch part): pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.5531795343565643e-92 T-Statistic:48.48568353815848
+Sint Maarten (Dutch part): pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.5531795343565643e-92 T-Statistic:48.48568353815848
+Sint Maarten (Dutch part): pair (people_fully_vaccinated, total_cases): P-Value:2.5513918183117105e-92 T-Statistic:48.485928910535684
+Sint Maarten (Dutch part): pair (people_fully_vaccinated, total_deaths): P-Value:2.5513918183117105e-92 T-Statistic:48.485928910535684
+Slovakia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.4432422685149266e-25 T-Statistic:10.873278919811
+Slovakia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.657626693277845e-42 T-Statistic:14.848798792261432
+Slovakia: pair (people_fully_vaccinated, total_cases): P-Value:3.4420313816577897e-25 T-Statistic:10.87331754172722
+Slovakia: pair (people_fully_vaccinated, total_deaths): P-Value:1.6539208850384447e-42 T-Statistic:14.84900588951368
+Slovenia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.1195057222403276e-13 T-Statistic:7.599374483138309
+Slovenia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.537862927476754e-41 T-Statistic:14.530569056548657
+Slovenia: pair (people_fully_vaccinated, total_cases): P-Value:1.1193957406698597e-13 T-Statistic:7.599388396734347
+Slovenia: pair (people_fully_vaccinated, total_deaths): P-Value:2.5397006925294043e-41 T-Statistic:14.530502391994874
+Solomon Islands: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.540743983163459e-22 T-Statistic:10.398932697385447
+Solomon Islands: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.7575482281824214e-22 T-Statistic:10.444553506400187
+Solomon Islands: pair (people_fully_vaccinated, total_cases): P-Value:2.532400661129072e-22 T-Statistic:10.399340325006598
+Solomon Islands: pair (people_fully_vaccinated, total_deaths): P-Value:1.7548361392018483e-22 T-Statistic:10.444744456234785
+Somalia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.223102306372759e-13 T-Statistic:7.46101999835665
+Somalia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:8.956671847577222e-24 T-Statistic:10.519901300095459
+Somalia: pair (people_fully_vaccinated, total_cases): P-Value:3.2290986241741927e-13 T-Statistic:7.460751199046745
+Somalia: pair (people_fully_vaccinated, total_deaths): P-Value:7.919866246688568e-24 T-Statistic:10.533737793493874
+South Africa: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.00015463506042855837 T-Statistic:-3.807465472038007
+South Africa: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.8438188082658675e-21 T-Statistic:9.832599976121557
+South Africa: pair (people_fully_vaccinated, total_cases): P-Value:0.0001548195350945942 T-Statistic:-3.8071634465079707
+South Africa: pair (people_fully_vaccinated, total_deaths): P-Value:2.8423727776194798e-21 T-Statistic:9.832659328383428
+South Korea: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.362842455682055e-22 T-Statistic:10.171484496558291
+South Korea: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.12050965606922e-23 T-Statistic:10.381180953415502
+South Korea: pair (people_fully_vaccinated, total_cases): P-Value:1.3624980905337438e-22 T-Statistic:10.171513183246251
+South Korea: pair (people_fully_vaccinated, total_deaths): P-Value:2.117054108602717e-23 T-Statistic:10.381363485798516
+South Sudan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.3110006864851145e-54 T-Statistic:-17.402775439108694
+South Sudan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.4995122627882563e-13 T-Statistic:7.504357063792039
+South Sudan: pair (people_fully_vaccinated, total_cases): P-Value:1.9674360714355613e-54 T-Statistic:-17.41706821126668
+South Sudan: pair (people_fully_vaccinated, total_deaths): P-Value:2.6345196805781157e-13 T-Statistic:7.496756392458588
+Spain: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.0540764950458694e-23 T-Statistic:10.4670542591579
+Spain: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:6.373771799853307e-37 T-Statistic:13.580532927950248
+Spain: pair (people_fully_vaccinated, total_cases): P-Value:1.0540266600888227e-23 T-Statistic:10.4670595349541
+Spain: pair (people_fully_vaccinated, total_deaths): P-Value:6.3705580832802895e-37 T-Statistic:13.580580962746541
+Sri Lanka: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.1105299102961887e-16 T-Statistic:8.531645984755555
+Sri Lanka: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.849404632984664e-18 T-Statistic:9.049191225304776
+Sri Lanka: pair (people_fully_vaccinated, total_cases): P-Value:1.110711242380679e-16 T-Statistic:8.531624878915727
+Sri Lanka: pair (people_fully_vaccinated, total_deaths): P-Value:1.849883855610955e-18 T-Statistic:9.049159187496205
+Sudan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:8.268050756605173e-10 T-Statistic:6.244682903800278
+Sudan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.039412021523745e-21 T-Statistic:9.787545199400613
+Sudan: pair (people_fully_vaccinated, total_cases): P-Value:8.096301522317231e-10 T-Statistic:6.2481864606218815
+Sudan: pair (people_fully_vaccinated, total_deaths): P-Value:5.057891105838859e-21 T-Statistic:9.787113220291388
+Suriname: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.0819138775127888e-10 T-Statistic:6.577358967197475
+Suriname: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:8.496749645496984e-24 T-Statistic:10.524132086925023
+Suriname: pair (people_fully_vaccinated, total_cases): P-Value:1.0815272013299317e-10 T-Statistic:6.5774161620614935
+Suriname: pair (people_fully_vaccinated, total_deaths): P-Value:8.501837242436073e-24 T-Statistic:10.524064790608303
+Sweden: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:6.913873196461638e-18 T-Statistic:8.887264463789965
+Sweden: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.5312193703602006e-36 T-Statistic:13.448844243006846
+Sweden: pair (people_fully_vaccinated, total_cases): P-Value:6.912658376517688e-18 T-Statistic:8.887286508094919
+Sweden: pair (people_fully_vaccinated, total_deaths): P-Value:2.532139228309352e-36 T-Statistic:13.448809457800273
+Switzerland: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.6606363960690313e-25 T-Statistic:10.89261196466245
+Switzerland: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.3201766757461462e-41 T-Statistic:14.635555095740687
+Switzerland: pair (people_fully_vaccinated, total_cases): P-Value:2.6605401952328787e-25 T-Statistic:10.8926159189989
+Switzerland: pair (people_fully_vaccinated, total_deaths): P-Value:1.31963086947231e-41 T-Statistic:14.635593431210621
+Syria: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.031247832974860685 T-Statistic:2.1592994650706863
+Syria: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.379362335242581e-10 T-Statistic:6.540134773248604
+Syria: pair (people_fully_vaccinated, total_cases): P-Value:0.03146655145135816 T-Statistic:2.1565009677482507
+Syria: pair (people_fully_vaccinated, total_deaths): P-Value:1.4100864988235992e-10 T-Statistic:6.536589272087277
+Taiwan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.811726506621743e-13 T-Statistic:7.41979376151254
+Taiwan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.5733011108711199e-13 T-Statistic:7.54637952651698
+Taiwan: pair (people_fully_vaccinated, total_cases): P-Value:3.817210470118263e-13 T-Statistic:7.419586689943922
+Taiwan: pair (people_fully_vaccinated, total_deaths): P-Value:1.579689413263423e-13 T-Statistic:7.5458037482802
+Tajikistan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:6.463525842681363e-10 T-Statistic:6.29605060929226
+Tajikistan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:9.431034055120767e-12 T-Statistic:6.972209750401493
+Tajikistan: pair (people_fully_vaccinated, total_cases): P-Value:6.433006085491027e-10 T-Statistic:6.296840225262944
+Tajikistan: pair (people_fully_vaccinated, total_deaths): P-Value:9.393608878149654e-12 T-Statistic:6.9728208684088
+Tanzania: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.612102547284566e-13 T-Statistic:7.560686405069296
+Tanzania: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:7.569053966774318e-14 T-Statistic:7.668287695424732
+Tanzania: pair (people_fully_vaccinated, total_cases): P-Value:1.3791284242921268e-13 T-Statistic:7.582998644699008
+Tanzania: pair (people_fully_vaccinated, total_deaths): P-Value:7.793220277236174e-14 T-Statistic:7.6641559281770695
+Thailand: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.1500859196310727e-20 T-Statistic:9.649640313065655
+Thailand: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.2294225425106506e-21 T-Statistic:9.840935106847043
+Thailand: pair (people_fully_vaccinated, total_cases): P-Value:1.1503521000846897e-20 T-Statistic:9.649613137793455
+Thailand: pair (people_fully_vaccinated, total_deaths): P-Value:2.236331989018152e-21 T-Statistic:9.840576841778395
+Timor: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.68746620801906e-18 T-Statistic:8.936639821834074
+Timor: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0823481187393444e-19 T-Statistic:9.426979705008044
+Timor: pair (people_fully_vaccinated, total_cases): P-Value:5.679442055451419e-18 T-Statistic:8.936818004031844
+Timor: pair (people_fully_vaccinated, total_deaths): P-Value:1.0822193210171516e-19 T-Statistic:9.426994159399278
+Togo: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.8592093620021356e-18 T-Statistic:9.067045763408755
+Togo: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.0813769202045416e-23 T-Statistic:10.33878967454575
+Togo: pair (people_fully_vaccinated, total_cases): P-Value:1.859446902173318e-18 T-Statistic:9.067029871194771
+Togo: pair (people_fully_vaccinated, total_deaths): P-Value:4.1316381407587795e-23 T-Statistic:10.337401053081217
+Tokelau: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:nan T-Statistic:nan
+Tokelau: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:nan T-Statistic:nan
+Tokelau: pair (people_fully_vaccinated, total_cases): P-Value:nan T-Statistic:nan
+Tokelau: pair (people_fully_vaccinated, total_deaths): P-Value:nan T-Statistic:nan
+Tonga: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.4093883104876476e-21 T-Statistic:11.01276851764375
+Tonga: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.4093883104876476e-21 T-Statistic:11.01276851764375
+Tonga: pair (people_fully_vaccinated, total_cases): P-Value:1.4095501479398273e-21 T-Statistic:11.012750707501542
+Tonga: pair (people_fully_vaccinated, total_deaths): P-Value:1.4095501479398273e-21 T-Statistic:11.012750707501542
+Trinidad and Tobago: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.7244594491799494e-17 T-Statistic:8.79174290638451
+Trinidad and Tobago: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.9050206176912936e-22 T-Statistic:10.170535096666466
+Trinidad and Tobago: pair (people_fully_vaccinated, total_cases): P-Value:1.725835795442351e-17 T-Statistic:8.79164117747396
+Trinidad and Tobago: pair (people_fully_vaccinated, total_deaths): P-Value:1.8992448575026486e-22 T-Statistic:10.170884335438432
+Tunisia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.6823235197629037e-08 T-Statistic:5.500379381401769
+Tunisia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.302188180505215e-22 T-Statistic:10.069204473244207
+Tunisia: pair (people_fully_vaccinated, total_cases): P-Value:5.6785826336868544e-08 T-Statistic:5.500501537793524
+Tunisia: pair (people_fully_vaccinated, total_deaths): P-Value:4.31454895379278e-22 T-Statistic:10.068873099021484
+Turkey: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:9.538014452425087e-28 T-Statistic:11.513590835587134
+Turkey: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:7.91576713088998e-40 T-Statistic:14.28280641020728
+Turkey: pair (people_fully_vaccinated, total_cases): P-Value:9.541415352100299e-28 T-Statistic:11.513553014031798
+Turkey: pair (people_fully_vaccinated, total_deaths): P-Value:7.914442010509156e-40 T-Statistic:14.28282221386082
+Turkmenistan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:nan T-Statistic:nan
+Turkmenistan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:nan T-Statistic:nan
+Turkmenistan: pair (people_fully_vaccinated, total_cases): P-Value:nan T-Statistic:nan
+Turkmenistan: pair (people_fully_vaccinated, total_deaths): P-Value:nan T-Statistic:nan
+Turks and Caicos Islands: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:6.651240568612167e-54 T-Statistic:20.03354550091042
+Turks and Caicos Islands: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:6.651240568612167e-54 T-Statistic:20.03354550091042
+Turks and Caicos Islands: pair (people_fully_vaccinated, total_cases): P-Value:6.646585607938853e-54 T-Statistic:20.03363632697114
+Turks and Caicos Islands: pair (people_fully_vaccinated, total_deaths): P-Value:6.646585607938853e-54 T-Statistic:20.03363632697114
+Tuvalu: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.4292067794116835e-07 T-Statistic:5.362400686837973
+Tuvalu: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.4292067794116835e-07 T-Statistic:5.362400686837973
+Tuvalu: pair (people_fully_vaccinated, total_cases): P-Value:3.429558178196068e-07 T-Statistic:5.3623782620926885
+Tuvalu: pair (people_fully_vaccinated, total_deaths): P-Value:3.429558178196068e-07 T-Statistic:5.3623782620926885
+Uganda: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.12978549544098403 T-Statistic:-1.5171603632882105
+Uganda: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.3431493768045987e-12 T-Statistic:7.253767151833386
+Uganda: pair (people_fully_vaccinated, total_cases): P-Value:0.12803876428912414 T-Statistic:-1.5241179432751553
+Uganda: pair (people_fully_vaccinated, total_deaths): P-Value:1.3464373748075831e-12 T-Statistic:7.253405306242158
+Ukraine: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.406006631674974e-24 T-Statistic:-10.530401310616586
+Ukraine: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.3793565814813342e-20 T-Statistic:9.59742858459659
+Ukraine: pair (people_fully_vaccinated, total_cases): P-Value:7.403060056792675e-24 T-Statistic:-10.53044589436429
+Ukraine: pair (people_fully_vaccinated, total_deaths): P-Value:2.377412944421129e-20 T-Statistic:9.59752615195874
+United Arab Emirates: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:4.696875360113356e-46 T-Statistic:15.509980696744572
+United Arab Emirates: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:6.564085141937048e-52 T-Statistic:16.694757211729968
+United Arab Emirates: pair (people_fully_vaccinated, total_cases): P-Value:4.694978660315844e-46 T-Statistic:15.510016743283725
+United Arab Emirates: pair (people_fully_vaccinated, total_deaths): P-Value:6.561257868155359e-52 T-Statistic:16.694794541214264
+United Kingdom: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.459988589984793e-33 T-Statistic:12.831149420282038
+United Kingdom: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.6551280073614246e-44 T-Statistic:15.152164085062038
+United Kingdom: pair (people_fully_vaccinated, total_cases): P-Value:1.4600039566798177e-33 T-Statistic:12.831148386591666
+United Kingdom: pair (people_fully_vaccinated, total_deaths): P-Value:2.654838432121867e-44 T-Statistic:15.152173928101316
+United States: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.6857739589442144e-34 T-Statistic:12.984918531333324
+United States: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.1901688705748183e-53 T-Statistic:17.021241464510485
+United States: pair (people_fully_vaccinated, total_cases): P-Value:2.6865759298081403e-34 T-Statistic:12.984889495888504
+United States: pair (people_fully_vaccinated, total_deaths): P-Value:1.190116754373724e-53 T-Statistic:17.021245218824635
+Uruguay: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:9.52563375772107e-36 T-Statistic:13.385369062443136
+Uruguay: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:8.822161016813499e-40 T-Statistic:14.27656335171441
+Uruguay: pair (people_fully_vaccinated, total_cases): P-Value:9.524703413660889e-36 T-Statistic:13.385378588602297
+Uruguay: pair (people_fully_vaccinated, total_deaths): P-Value:8.822715356723656e-40 T-Statistic:14.276557413830561
+Uzbekistan: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:8.424677467641451e-17 T-Statistic:8.588196998248344
+Uzbekistan: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.6616512522670203e-22 T-Statistic:10.09594484015754
+Uzbekistan: pair (people_fully_vaccinated, total_cases): P-Value:8.431738318350885e-17 T-Statistic:8.588088280683754
+Uzbekistan: pair (people_fully_vaccinated, total_deaths): P-Value:3.6544351261871305e-22 T-Statistic:10.096172921875754
+Vanuatu: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.8528649804473615e-10 T-Statistic:6.454914886599501
+Vanuatu: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.6701004804819034e-10 T-Statistic:6.463198247454406
+Vanuatu: pair (people_fully_vaccinated, total_cases): P-Value:3.9234167647093287e-10 T-Statistic:6.451819984256082
+Vanuatu: pair (people_fully_vaccinated, total_deaths): P-Value:3.7072987398392575e-10 T-Statistic:6.461480024372747
+Vatican: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.387977187879101e-249 T-Statistic:-59.631134898780175
+Vatican: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:nan T-Statistic:nan
+Vatican: pair (people_fully_vaccinated, total_cases): P-Value:1.4407084423875239e-249 T-Statistic:-59.62667734636935
+Vatican: pair (people_fully_vaccinated, total_deaths): P-Value:nan T-Statistic:nan
+Venezuela: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.0961553332856802e-09 T-Statistic:6.197822289916035
+Venezuela: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.443792763134554e-16 T-Statistic:8.40355674339231
+Venezuela: pair (people_fully_vaccinated, total_cases): P-Value:1.0957115684431438e-09 T-Statistic:6.197890325778947
+Venezuela: pair (people_fully_vaccinated, total_deaths): P-Value:3.4454751415402073e-16 T-Statistic:8.403492333853121
+Vietnam: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.658776703249948e-11 T-Statistic:6.860495505732895
+Vietnam: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.4226905037286724e-12 T-Statistic:7.061200440424291
+Vietnam: pair (people_fully_vaccinated, total_cases): P-Value:1.6730750228120037e-11 T-Statistic:6.859176690396426
+Vietnam: pair (people_fully_vaccinated, total_deaths): P-Value:4.438335520879917e-12 T-Statistic:7.060670524497787
+Wallis and Futuna: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.5393067863898007e-64 T-Statistic:25.644529157425232
+Wallis and Futuna: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.5393067863898007e-64 T-Statistic:25.644529157425232
+Wallis and Futuna: pair (people_fully_vaccinated, total_cases): P-Value:1.5401546047405307e-64 T-Statistic:25.644435782291215
+Wallis and Futuna: pair (people_fully_vaccinated, total_deaths): P-Value:1.5401546047405307e-64 T-Statistic:25.644435782291215
+Yemen: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.004548391434137839 T-Statistic:-2.8492163138411164
+Yemen: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.101532018997931e-09 T-Statistic:6.092570899425905
+Yemen: pair (people_fully_vaccinated, total_cases): P-Value:0.004973345689182171 T-Statistic:-2.820251547793415
+Yemen: pair (people_fully_vaccinated, total_deaths): P-Value:2.730770904448599e-09 T-Statistic:6.04766144649649
+Zambia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.0396270595679207e-24 T-Statistic:-10.687321736472022
+Zambia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:6.120000051519975e-19 T-Statistic:9.212503558122485
+Zambia: pair (people_fully_vaccinated, total_cases): P-Value:2.030462155367485e-24 T-Statistic:-10.687823552620657
+Zambia: pair (people_fully_vaccinated, total_deaths): P-Value:6.056156338551027e-19 T-Statistic:9.213797047273774
+Zimbabwe: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.7462943157596077e-24 T-Statistic:10.706423213748677
+Zimbabwe: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:3.477399490562194e-27 T-Statistic:11.38542711492378
+Zimbabwe: pair (people_fully_vaccinated, total_cases): P-Value:1.749726357475877e-24 T-Statistic:10.706204556820406
+Zimbabwe: pair (people_fully_vaccinated, total_deaths): P-Value:3.4776090033910385e-27 T-Statistic:11.385420660204165

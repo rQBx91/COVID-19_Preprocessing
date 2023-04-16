@@ -1,0 +1,4 @@
+All Data and pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:0.0 T-Statistic:110.87194850595553
+All Data and pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:0.0 T-Statistic:139.5747681336065
+All Data and pair (people_fully_vaccinated, total_cases): P-Value:3.8502043331297595e-106 T-Statistic:21.90375942667917
+All Data and pair (people_fully_vaccinated, total_deaths): P-Value:4.702304984026628e-158 T-Statistic:26.825800299680097

@@ -1,0 +1,32 @@
+Africa: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.052504041065166e-15 T-Statistic:8.153997237841729
+Africa: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.2654364073523596e-30 T-Statistic:12.0257060069732
+Africa: pair (people_fully_vaccinated, total_cases): P-Value:2.0527536340664993e-15 T-Statistic:8.153980916149456
+Africa: pair (people_fully_vaccinated, total_deaths): P-Value:5.2669792591651106e-30 T-Statistic:12.025675996399151
+Asia: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:5.500505747441267e-17 T-Statistic:8.620077947200347
+Asia: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0492257414440094e-20 T-Statistic:9.670204876855935
+Asia: pair (people_fully_vaccinated, total_cases): P-Value:5.4978184732166385e-17 T-Statistic:8.62014056834706
+Asia: pair (people_fully_vaccinated, total_deaths): P-Value:1.0493828880157449e-20 T-Statistic:9.67018725300947
+Europe: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:2.612313911061416e-25 T-Statistic:10.867161795224137
+Europe: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:5.169756700943773e-39 T-Statistic:14.020316994244384
+Europe: pair (people_fully_vaccinated, total_cases): P-Value:2.612978880351645e-25 T-Statistic:10.867134164041811
+Europe: pair (people_fully_vaccinated, total_deaths): P-Value:5.1696051662482375e-39 T-Statistic:14.0203197308547
+European Union: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:1.3500859077980675e-25 T-Statistic:10.938664093054452
+European Union: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:4.117324893229159e-38 T-Statistic:13.825902743328028
+European Union: pair (people_fully_vaccinated, total_cases): P-Value:1.3497945732701156e-25 T-Statistic:10.938687420421685
+European Union: pair (people_fully_vaccinated, total_deaths): P-Value:4.117002473882025e-38 T-Statistic:13.82591010731103
+North America: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:9.385502673697643e-33 T-Statistic:12.636634415486615
+North America: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:2.6406395617960833e-49 T-Statistic:16.154943527544916
+North America: pair (people_fully_vaccinated, total_cases): P-Value:9.386973213610897e-33 T-Statistic:12.636618940133333
+North America: pair (people_fully_vaccinated, total_deaths): P-Value:2.6408752204995336e-49 T-Statistic:16.154935722844186
+Oceania: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:3.0154480509540084e-22 T-Statistic:10.083587575806138
+Oceania: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:6.333762067818557e-23 T-Statistic:10.260874997958998
+Oceania: pair (people_fully_vaccinated, total_cases): P-Value:3.014898549697816e-22 T-Statistic:10.083608408068779
+Oceania: pair (people_fully_vaccinated, total_deaths): P-Value:6.35633592241384e-23 T-Statistic:10.260473216821756
+South America: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:6.307777002020248e-10 T-Statistic:6.2862426949478465
+South America: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:1.0976625358535055e-33 T-Statistic:12.888939013177854
+South America: pair (people_fully_vaccinated, total_cases): P-Value:6.306313327557139e-10 T-Statistic:6.286281145789678
+South America: pair (people_fully_vaccinated, total_deaths): P-Value:1.0974789093217627e-33 T-Statistic:12.888955531898075
+World: pair (people_fully_vaccinated_per_population, total_cases_per_population): P-Value:7.623333391789288e-21 T-Statistic:9.70774185549388
+World: pair (people_fully_vaccinated_per_population, total_deaths_per_population): P-Value:7.2947865221928e-30 T-Statistic:11.968683603057363
+World: pair (people_fully_vaccinated, total_cases): P-Value:7.62066486089182e-21 T-Statistic:9.707782941235518
+World: pair (people_fully_vaccinated, total_deaths): P-Value:7.295204070509208e-30 T-Statistic:11.968677763015258
